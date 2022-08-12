@@ -1,0 +1,4827 @@
+001	Bulbasaur	Grass
+Poison	128	118	111	20%	10%	Vine Whip
+Tackle
+Seed Bomb
+Sludge Bomb
+Power Whip
+Frustration (Shadow)
+Return (Shadow)
+002	Ivysaur	Grass
+Poison	155	151	143	10%	7%	Vine Whip
+Razor Leaf
+Sludge Bomb
+Solar Beam
+Power Whip
+Frustration (Shadow)
+Return (Shadow)
+003	Venusaur	Grass
+Poison	190	198	189	5%	5%	Vine Whip
+Razor Leaf
+Petal Blizzard
+Sludge Bomb
+Solar Beam
+Frenzy Plant (Community Day)
+Frustration (Shadow)
+Return (Shadow)
+003	MegaVenusaur	Grass
+Poison	190	241	246	5%	5%	Vine Whip
+Razor Leaf
+Petal Blizzard
+Sludge Bomb
+Solar Beam
+Frenzy Plant (Community Day)
+Frustration (Shadow)
+Return (Shadow)
+004	Charmander	Fire
+118	116	93	20%	10%	Ember
+Scratch
+Flamethrower
+Flame Charge
+Flame Burst
+Frustration (Shadow)
+Return (Shadow)
+005	Charmeleon	Fire
+151	158	126	10%	7%	Ember
+Fire Fang
+Flamethrower
+Flame Burst
+Fire Punch
+Frustration (Shadow)
+Return (Shadow)
+006	Charizard	Fire
+Flying	186	223	173	5%	5%	Air Slash
+Fire Spin
+Dragon Claw
+Fire Blast
+Overheat
+Blast Burn (Community Day)
+Frustration (Shadow)
+Return (Shadow)
+006	MegaCharizardX	Fire
+Dragon	186	273	213	5%	5%	Air Slash
+Fire Spin
+Dragon Claw
+Fire Blast
+Overheat
+Blast Burn (Community Day)
+Frustration (Shadow)
+Return (Shadow)
+006	MegaCharizardY	Fire
+Flying	186	319	212	5%	5%	Air Slash
+Fire Spin
+Dragon Claw
+Fire Blast
+Overheat
+Blast Burn (Community Day)
+Frustration (Shadow)
+Return (Shadow)
+007	Squirtle	Water
+127	94	121	20%	10%	Tackle
+Bubble
+Aqua Jet
+Aqua Tail
+Water Pulse
+Frustration (Shadow)
+Return (Shadow)
+008	Wartortle	Water
+153	126	155	10%	7%	Bite
+Water Gun
+Ice Beam
+Aqua Jet
+Hydro Pump
+Frustration (Shadow)
+Return (Shadow)
+009	Blastoise	Water
+188	171	207	5%	5%	Bite
+Water Gun
+Flash Cannon
+Ice Beam
+Hydro Pump
+Hydro Cannon (Community Day)
+Skull Bash
+Frustration (Shadow)
+Return (Shadow)
+009	MegaBlastoise	Water
+188	264	237	5%	5%	Bite
+Water Gun
+Flash Cannon
+Ice Beam
+Hydro Pump
+Hydro Cannon (Community Day)
+Skull Bash
+Frustration (Shadow)
+Return (Shadow)
+010	Caterpie	Bug
+128	55	55	50%	20%	Bug Bite
+Tackle
+Struggle
+011	Metapod	Bug
+137	45	80	25%	9%	Bug Bite
+Tackle
+Struggle
+012	Butterfree	Bug
+Flying	155	167	137	12.5%	6%	Confusion
+Struggle Bug
+Bug Buzz
+Signal Beam
+Psychic
+013	Weedle	Bug
+Poison	120	63	50	50%	20%	Bug Bite
+Poison Sting
+Struggle
+Frustration (Shadow)
+Return (Shadow)
+014	Kakuna	Bug
+Poison	128	46	75	25%	9%	Bug Bite
+Poison Sting
+Struggle
+Frustration (Shadow)
+Return (Shadow)
+015	Beedrill	Bug
+Poison	163	169	130	12.5%	6%	Poison Jab
+Infestation
+Aerial Ace
+Sludge Bomb
+X-Scissor
+Fell Stinger
+Frustration (Shadow)
+Return (Shadow)
+015	MegaBeedrill	Bug
+Poison	163	303	148	12.5%	6%	Poison Jab
+Infestation
+Aerial Ace
+Sludge Bomb
+X-Scissor
+Fell Stinger
+Frustration (Shadow)
+Return (Shadow)
+016	Pidgey	Normal
+Flying	120	85	73	50%	20%	Quick Attack
+Tackle
+Aerial Ace
+Twister
+Air Cutter
+017	Pidgeotto	Normal
+Flying	160	117	105	25%	9%	Wing Attack
+Steel Wing
+Aerial Ace
+Twister
+Air Cutter
+018	Pidgeot	Normal
+Flying	195	166	154	12.5%	6%	Steel Wing
+Air Slash
+Aerial Ace
+Hurricane
+Brave Bird
+018	MegaPidgeot	Normal
+Flying	195	280	175	12.5%	6%	Steel Wing
+Air Slash
+Aerial Ace
+Hurricane
+Brave Bird
+019	Rattata	Normal
+102	103	70	50%	20%	Quick Attack
+Tackle
+Dig
+Hyper Fang
+Body Slam
+Frustration (Shadow)
+Return (Shadow)
+019	AlolanRattata	Dark
+Normal	102	103	70	50%	20%	Quick Attack
+Tackle
+Shadow Ball
+Hyper Fang
+Crunch
+020	Raticate	Normal
+146	161	139	20%	7%	Bite
+Quick Attack
+Hyper Beam
+Dig
+Hyper Fang
+Frustration (Shadow)
+Return (Shadow)
+020	AlolanRaticate	Dark
+Normal	181	135	154	20%	7%	Bite
+Quick Attack
+Hyper Beam
+Hyper Fang
+Crunch
+021	Spearow	Normal
+Flying	120	112	60	50%	15%	Peck
+Quick Attack
+Drill Peck
+Aerial Ace
+Sky Attack
+022	Fearow	Normal
+Flying	163	182	133	20%	7%	Peck
+Steel Wing
+Aerial Ace
+Drill Run
+Sky Attack
+023	Ekans	Poison
+111	110	97	50%	15%	Acid
+Poison Sting
+Wrap
+Poison Fang
+Sludge Bomb
+024	Arbok	Poison
+155	167	153	20%	7%	Bite
+Acid
+Dragon Tail
+Dark Pulse
+Sludge Wave
+Gunk Shot
+Acid Spray
+025	Pikachu	Electric
+111	112	96	20%	10%	Thunder Shock
+Quick Attack
+Discharge
+Thunderbolt
+Wild Charge
+Surf (Community Day)
+025	PikachuLibre	Electric
+111	112	96	20%	10%	Thunder Shock
+Charm
+Thunder Punch
+Play Rough
+Flying Press
+026	Raichu	Electric
+155	193	151	10%	6%	Thunder Shock
+Spark
+Volt Switch
+Charm
+Thunder Punch
+Brick Break
+Wild Charge
+Skull Bash
+026	AlolanRaichu	Electric
+Psychic	155	201	154	10%	6%	Thunder Shock
+Spark
+Volt Switch
+Thunder Punch
+Psychic
+Wild Charge
+Grass Knot
+027	Sandshrew	Ground
+137	126	120	50%	10%	Mud Shot
+Scratch
+Dig
+Rock Slide
+Sand Tomb
+Frustration (Shadow)
+Return (Shadow)
+027	AlolanSandshrew	Ice
+Steel	137	125	129	50%	10%	Metal Claw
+Powder Snow
+Blizzard
+Night Slash
+Gyro Ball
+028	Sandslash	Ground
+181	182	175	20%	6%	Mud Shot
+Metal Claw
+Earthquake
+Rock Tomb
+Bulldoze
+Frustration (Shadow)
+Return (Shadow)
+028	AlolanSandslash	Ice
+Steel	181	177	195	20%	6%	Metal Claw
+Powder Snow
+Ice Punch
+Blizzard
+Bulldoze
+Gyro Ball
+029	NidoranFemale	Poison
+146	86	89	50%	15%	Bite
+Poison Sting
+Poison Fang
+Sludge Bomb
+Body Slam
+030	Nidorina	Poison
+172	117	120	25%	7%	Bite
+Poison Sting
+Dig
+Poison Fang
+Sludge Bomb
+031	Nidoqueen	Poison
+Ground	207	180	173	12.5%	5%	Bite
+Poison Jab
+Earthquake
+Stone Edge
+Sludge Wave
+Earth Power
+032	NidoranMale	Poison
+130	105	76	50%	15%	Peck
+Poison Sting
+Sludge Bomb
+Horn Attack
+Body Slam
+033	Nidorino	Poison
+156	137	111	25%	7%	Poison Jab
+Poison Sting
+Dig
+Sludge Bomb
+Horn Attack
+034	Nidoking	Poison
+Ground	191	204	156	12.5%	5%	Poison Jab
+Iron Tail
+Megahorn
+Earthquake
+Sludge Wave
+Earth Power
+035	Clefairy	Fairy
+172	107	108	30%	10%	Pound
+Zen Headbutt
+Disarming Voice
+Moonblast
+Body Slam
+036	Clefable	Fairy
+216	178	162	10%	6%	Zen Headbutt
+Charge Beam
+Charm
+Dazzling Gleam
+Moonblast
+Psychic
+Meteor Mash
+037	Vulpix	Fire
+116	96	109	30%	10%	Ember
+Quick Attack
+Flamethrower
+Flame Charge
+Body Slam
+Weather Ball - Fire
+037	AlolanVulpix	Ice
+116	96	109	30%	10%	Zen Headbutt
+Powder Snow
+Dark Pulse
+Ice Beam
+Blizzard
+Weather Ball - Ice
+038	Ninetales	Fire
+177	169	190	10%	6%	Feint Attack
+Fire Spin
+Heat Wave
+Psyshock
+Solar Beam
+Overheat
+Weather Ball - Fire
+038	AlolanNinetales	Ice
+Fairy	177	170	193	10%	6%	Feint Attack
+Powder Snow
+Charm
+Ice Beam
+Blizzard
+Psyshock
+Dazzling Gleam
+Weather Ball - Ice
+039	Jigglypuff	Normal
+Fairy	251	80	41	50%	10%	Pound
+Feint Attack
+Disarming Voice
+Dazzling Gleam
+Gyro Ball
+040	Wigglytuff	Normal
+Fairy	295	156	90	20%	6%	Pound
+Feint Attack
+Charm
+Hyper Beam
+Ice Beam
+Dazzling Gleam
+Play Rough
+041	Zubat	Poison
+Flying	120	83	73	50%	20%	Bite
+Quick Attack
+Poison Fang
+Air Cutter
+Swift
+Frustration (Shadow)
+Return (Shadow)
+042	Golbat	Poison
+Flying	181	161	150	20%	7%	Bite
+Wing Attack
+Poison Fang
+Shadow Ball
+Air Cutter
+Frustration (Shadow)
+Return (Shadow)
+043	Oddish	Grass
+Poison	128	131	112	60%	15%	Razor Leaf
+Acid
+Seed Bomb
+Moonblast
+Sludge Bomb
+Frustration (Shadow)
+Return (Shadow)
+044	Gloom	Grass
+Poison	155	153	136	30%	7%	Razor Leaf
+Acid
+Petal Blizzard
+Moonblast
+Sludge Bomb
+Frustration (Shadow)
+Return (Shadow)
+045	Vileplume	Grass
+Poison	181	202	167	15%	5%	Razor Leaf
+Acid
+Petal Blizzard
+Moonblast
+Sludge Bomb
+Solar Beam
+Frustration (Shadow)
+Return (Shadow)
+046	Paras	Bug
+Grass	111	121	99	40%	15%	Bug Bite
+Scratch
+Seed Bomb
+Cross Poison
+X-Scissor
+047	Parasect	Bug
+Grass	155	165	146	20%	7%	Fury Cutter
+Struggle Bug
+Cross Poison
+X-Scissor
+Solar Beam
+048	Venonat	Bug
+Poison	155	100	100	50%	15%	Bug Bite
+Confusion
+Psybeam
+Poison Fang
+Signal Beam
+Frustration (Shadow)
+Return (Shadow)
+049	Venomoth	Bug
+Poison	172	179	143	20%	7%	Confusion
+Infestation
+Bug Buzz
+Poison Fang
+Psychic
+Silver Wind
+Frustration (Shadow)
+Return (Shadow)
+050	Diglett	Ground
+67	109	78	50%	10%	Scratch
+Mud-Slap
+Dig
+Rock Tomb
+Mud Bomb
+050	AlolanDiglett	Ground
+Steel	67	108	81	50%	10%	Metal Claw
+Mud-Slap
+Dig
+Rock Tomb
+Mud Bomb
+051	Dugtrio	Ground
+111	167	134	20%	6%	Sucker Punch
+Mud-Slap
+Earthquake
+Stone Edge
+Mud Bomb
+051	AlolanDugtrio	Ground
+Steel	111	201	142	20%	6%	Metal Claw
+Mud-Slap
+Earthquake
+Iron Head
+Mud Bomb
+052	Meowth	Normal
+120	92	78	50%	15%	Bite
+Scratch
+Dark Pulse
+Night Slash
+Foul Play
+Frustration (Shadow)
+Return (Shadow)
+052	AlolanMeowth	Dark
+120	99	78	50%	15%	Bite
+Scratch
+Dark Pulse
+Night Slash
+Foul Play
+052	GalarianMeowth	Steel
+137	115	92	45%	10%	Scratch
+Metal Claw
+Dig
+Night Slash
+Gyro Ball
+053	Persian	Normal
+163	150	136	20%	7%	Scratch
+Feint Attack
+Power Gem
+Play Rough
+Foul Play
+Frustration (Shadow)
+Return (Shadow)
+053 AlolanPersian	Dark
+163	158	136	20%	7%	Scratch
+Feint Attack
+Dark Pulse
+Play Rough
+Foul Play
+054	Psyduck	Water
+137	122	95	50%	10%	Water Gun
+Zen Headbutt
+Cross Chop
+Psybeam
+Aqua Tail
+Frustration (Shadow)
+Return (Shadow)
+055	Golduck	Water
+190	191	162	20%	6%	Water Gun
+Confusion
+Cross Chop
+Ice Beam
+Bubble Beam
+Hydro Pump
+Psychic
+Frustration (Shadow)
+Return (Shadow)
+Synchronoise
+056	Mankey	Fighting
+120	148	82	50%	10%	Karate Chop
+Scratch
+Cross Chop
+Low Sweep
+Brick Break
+057	Primeape	Fighting
+163	207	138	20%	6%	Low Kick
+Counter
+Ice Punch
+Night Slash
+Low Sweep
+Close Combat
+058	Growlithe	Fire
+146	136	93	30%	10%	Bite
+Ember
+Flame Wheel
+Flamethrower
+Body Slam
+Frustration (Shadow)
+Return (Shadow)
+059	Arcanine	Fire
+207	227	166	10%	6%	Fire Fang
+Snarl
+Thunder Fang
+Flamethrower
+Fire Blast
+Wild Charge
+Crunch
+Frustration (Shadow)
+Return (Shadow)
+060	Poliwag	Water
+120	101	82	50%	15%	Mud Shot
+Bubble
+Bubble Beam
+Mud Bomb
+Body Slam
+Frustration (Shadow)
+Return (Shadow)
+061	Poliwhirl	Water
+163	130	123	25%	7%	Mud Shot
+Bubble
+Bubble Beam
+Mud Bomb
+Water Pulse
+Frustration (Shadow)
+Return (Shadow)
+062	Poliwrath	Water
+Fighting	207	182	184	12.5%	5%	Mud Shot
+Bubble
+Rock Smash
+Ice Punch
+Hydro Pump
+Dynamic Punch
+Power-Up Punch
+Frustration (Shadow)
+Return (Shadow)
+063	Abra	Psychic
+93	195	82	50%	99%	Zen Headbutt
+Charge Beam
+Psyshock
+Shadow Ball
+Signal Beam
+Frustration (Shadow)
+Return (Shadow)
+064	Kadabra	Psychic
+120	232	117	25%	7%	Psycho Cut
+Confusion
+Psybeam
+Shadow Ball
+Dazzling Gleam
+Frustration (Shadow)
+Return (Shadow)
+065	Alakazam	Psychic
+146	271	167	10%	5%	Psycho Cut
+Confusion
+Shadow Ball
+Fire Punch
+Focus Blast
+Future Sight
+Frustration (Shadow)
+Return (Shadow)
+066	Machop	Fighting
+172	137	82	50%	10%	Karate Chop
+Rock Smash
+Cross Chop
+Low Sweep
+Brick Break
+067	Machoke	Fighting
+190	177	125	25%	7%	Low Kick
+Karate Chop
+Submission
+Brick Break
+Dynamic Punch
+068	Machamp	Fighting
+207	234	159	10%	5%	Bullet Punch
+Counter
+Cross Chop
+Rock Slide
+Close Combat
+Dynamic Punch
+Heavy Slam
+069	Bellsprout	Grass
+Poison	137	139	61	50%	15%	Vine Whip
+Acid
+Wrap
+Sludge Bomb
+Power Whip
+Frustration (Shadow)
+Return (Shadow)
+070	Weepinbell	Grass
+Poison	163	172	92	25%	7%	Acid
+Bullet Seed
+Seed Bomb
+Sludge Bomb
+Power Whip
+Frustration (Shadow)
+Return (Shadow)
+071	Victreebel	Grass
+Poison	190	207	135	12.5%	5%	Razor Leaf
+Acid
+Sludge Bomb
+Solar Beam
+Leaf Blade
+Acid Spray
+Leaf Tornado
+Frustration (Shadow)
+Return (Shadow)
+072	Tentacool	Water
+Poison	120	97	149	50%	15%	Poison Sting
+Bubble
+Wrap
+Bubble Beam
+Water Pulse
+073	Tentacruel	Water
+Poison	190	166	209	20%	7%	Poison Jab
+Acid
+Blizzard
+Sludge Wave
+Hydro Pump
+Acid Spray
+074	Geodude	Rock
+Ground	120	132	132	50%	10%	Tackle
+Rock Throw
+Dig
+Rock Tomb
+Rock Slide
+074	AlolanGeodude	Rock
+Electric	120	132	132	50%	10%	Rock Throw
+Volt Switch
+Rock Tomb
+Rock Slide
+Thunderbolt
+075	Graveler	Rock
+Ground	146	164	164	25%	7%	Rock Throw
+Mud-Slap
+Dig
+Stone Edge
+Rock Blast
+075	AlolanGraveler	Rock
+Electric	146	164	164	25%	7%	Rock Throw
+Volt Switch
+Stone Edge
+Thunderbolt
+Rock Blast
+076	Golem	Rock
+Ground	190	211	198	12.5%	5%	Rock Throw
+Mud-Slap
+Earthquake
+Stone Edge
+Ancient Power
+Rock Blast
+076 AlolanGolem	Rock
+Electric	190	211	198	12.5%	5%	Rock Throw
+Volt Switch
+Stone Edge
+Wild Charge
+Rock Blast
+077	Ponyta	Fire
+137	170	127	40%	10%	Ember
+Tackle
+Flame Wheel
+Flame Charge
+Stomp
+077	GalarianPonyta	Psychic
+137	170	127	40%	10%	Low Kick
+Psycho Cut
+Psybeam
+Play Rough
+Swift
+078	Rapidash	Fire
+163	207	162	15%	6%	Low Kick
+Fire Spin
+Incinerate
+Heat Wave
+Drill Run
+Flame Charge
+Fire Blast
+078	GalarianRapidash	Psychic
+Fairy	163	207	162	20%	6%	Low Kick
+Psycho Cut
+Megahorn
+Play Rough
+Psychic
+Body Slam
+079	Slowpoke	Water
+Psychic	207	109	98	50%	10%	Water Gun
+Confusion
+Psyshock
+Water Pulse
+Psychic
+080	Slowbro	Water
+Psychic	216	177	180	20%	6%	Water Gun
+Confusion
+Ice Beam
+Water Pulse
+Psychic
+081	Magnemite	Electric
+Steel	93	165	121	50%	10%	Thunder Shock
+Spark
+Discharge
+Magnet Bomb
+Thunderbolt
+Frustration (Shadow)
+Return (Shadow)
+082	Magneton	Electric
+Steel	137	223	169	20%	6%	Thunder Shock
+Spark
+Charge Beam
+Discharge
+Flash Cannon
+Magnet Bomb
+Zap Cannon
+Frustration (Shadow)
+Return (Shadow)
+083	Farfetch'd	Normal
+Flying	141	124	115	30%	9%	Fury Cutter
+Air Slash
+Aerial Ace
+Leaf Blade
+Air Cutter
+083	GalarianFarfetch'd	Fighting
+141	174	114	30%	9%	Fury Cutter
+Rock Smash
+Leaf Blade
+Brick Break
+Brave Bird
+084	Doduo	Normal
+Flying	111	158	83	50%	10%	Peck
+Quick Attack
+Drill Peck
+Aerial Ace
+Brave Bird
+085	Dodrio	Normal
+Flying	155	218	140	20%	6%	Feint Attack
+Steel Wing
+Drill Peck
+Aerial Ace
+Brave Bird
+086	Seel	Water
+163	85	121	50%	9%	Lick
+Ice Shard
+Aqua Tail
+Icy Wind
+Aurora Beam
+087	Dewgong	Water
+Ice	207	139	177	20%	6%	Frost Breath
+Iron Tail
+Blizzard
+Water Pulse
+Aurora Beam
+088	Grimer	Poison
+190	135	90	50%	10%	Poison Jab
+Mud-Slap
+Sludge
+Sludge Bomb
+Mud Bomb
+Frustration (Shadow)
+Return (Shadow)
+088	AlolanGrimer	Poison
+Dark	190	135	90	50%	10%	Bite
+Poison Jab
+Sludge Bomb
+Gunk Shot
+Crunch
+089	Muk	Poison
+233	190	172	20%	6%	Poison Jab
+Infestation
+Dark Pulse
+Thunder Punch
+Sludge Wave
+Gunk Shot
+Acid Spray
+Frustration (Shadow)
+Return (Shadow)
+089	AlolanMuk	Poison
+Dark	233	190	172	20%	6%	Bite
+Poison Jab
+Snarl
+Dark Pulse
+Sludge Wave
+Gunk Shot
+Acid Spray
+090	Shellder	Water
+102	116	134	50%	10%	Ice Shard
+Tackle
+Bubble Beam
+Water Pulse
+Icy Wind
+091	Cloyster	Water
+Ice	137	186	256	20%	6%	Ice Shard
+Frost Breath
+Hydro Pump
+Icy Wind
+Aurora Beam
+Avalanche
+092	Gastly	Ghost
+Poison	102	186	67	40%	10%	Lick
+Astonish
+Dark Pulse
+Sludge Bomb
+Night Shade
+093	Haunter	Ghost
+Poison	128	223	107	20%	7%	Shadow Claw
+Astonish
+Dark Pulse
+Shadow Punch
+Shadow Ball
+Sludge Bomb
+094	Gengar	Ghost
+Poison	155	261	149	10%	5%	Sucker Punch
+Shadow Claw
+Hex
+Shadow Ball
+Sludge Bomb
+Focus Blast
+094	MegaGengar	Ghost
+Poison	155	349	199	10%	5%	Sucker Punch
+Shadow Claw
+Hex
+Shadow Ball
+Sludge Bomb
+Focus Blast
+095	Onix	Rock
+Ground	111	85	232	20%	9%	Tackle
+Rock Throw
+Stone Edge
+Sand Tomb
+Heavy Slam
+096	Drowzee	Psychic
+155	89	136	50%	10%	Pound
+Confusion
+Psybeam
+Psyshock
+Psychic
+Frustration (Shadow)
+Return (Shadow)
+097	Hypno	Psychic
+198	144	193	20%	6%	Zen Headbutt
+Confusion
+Ice Punch
+Shadow Ball
+Thunder Punch
+Psychic
+Fire Punch
+Focus Blast
+Future Sight
+Frustration (Shadow)
+Return (Shadow)
+098	Krabby	Water
+102	181	124	50%	15%	Mud Shot
+Bubble
+Vise Grip
+Bubble Beam
+Water Pulse
+099	Kingler	Water
+146	240	181	20%	7%	Metal Claw
+Bubble
+Vise Grip
+X-Scissor
+Water Pulse
+Crabhammer
+100	Voltorb	Electric
+120	109	111	50%	10%	Spark
+Tackle
+Discharge
+Thunderbolt
+Gyro Ball
+101	Electrode	Electric
+155	173	173	20%	6%	Spark
+Volt Switch
+Hyper Beam
+Discharge
+Thunderbolt
+Foul Play
+102	Exeggcute	Grass
+Psychic	155	107	125	50%	10%	Confusion
+Bullet Seed
+Seed Bomb
+Ancient Power
+Psychic
+103	Exeggutor	Grass
+Psychic	216	233	149	20%	6%	Confusion
+Bullet Seed
+Extrasensory
+Seed Bomb
+Psychic
+Solar Beam
+103	AlolanExeggutor	Grass
+Dragon	216	230	153	20%	6%	Dragon Tail
+Bullet Seed
+Seed Bomb
+Dragon Pulse
+Solar Beam
+104	Cubone	Ground
+137	90	144	40%	10%	Mud-Slap
+Rock Smash
+Dig
+Bone Club
+Bulldoze
+Frustration (Shadow)
+Return (Shadow)
+105	Marowak	Ground
+155	144	186	15%	6%	Mud-Slap
+Rock Smash
+Dig
+Earthquake
+Bone Club
+Frustration (Shadow)
+Return (Shadow)
+105	AlolanMarowak	Fire
+Ghost	155	144	186	15%	6%	Rock Smash
+Hex
+Fire Spin
+Flame Wheel
+Shadow Ball
+Bone Club
+Fire Blast
+106	Hitmonlee	Fighting
+137	224	181	20%	9%	Low Kick
+Rock Smash
+Stone Edge
+Low Sweep
+Close Combat
+Frustration (Shadow)
+Return (Shadow)
+107	Hitmonchan	Fighting
+137	193	197	20%	9%	Bullet Punch
+Counter
+Ice Punch
+Thunder Punch
+Fire Punch
+Close Combat
+Power-Up Punch
+Frustration (Shadow)
+Return (Shadow)
+108	Lickitung	Normal
+207	108	137	20%	9%	Lick
+Zen Headbutt
+Hyper Beam
+Power Whip
+Stomp
+Body Slam (legacy)
+109	Koffing	Poison
+120	119	141	50%	10%	Tackle
+Infestation
+Dark Pulse
+Sludge
+Sludge Bomb
+110	Weezing	Poison
+163	174	197	20%	6%	Tackle
+Infestation
+Dark Pulse
+Shadow Ball
+Thunderbolt
+Sludge Bomb
+110	GalarianWeezing	Poison
+Fairy	163	174	197	20%	6%	Tackle
+Hyper Beam
+Sludge
+Play Rough
+Overheat
+111	Rhyhorn	Ground
+Rock	190	140	127	50%	10%	Mud-Slap
+Rock Smash
+Bulldoze
+Horn Attack
+Stomp
+112	Rhydon	Ground
+Rock	233	222	171	5%	6%	Mud-Slap
+Rock Smash
+Earthquake
+Stone Edge
+Surf
+113	Chansey	Normal
+487	60	128	20%	9%	Pound
+Zen Headbutt
+Hyper Beam
+Dazzling Gleam
+Psychic
+114	Tangela	Grass
+163	183	169	40%	9%	Vine Whip
+Infestation
+Sludge Bomb
+Solar Beam
+Grass Knot
+115	Kangaskhan	Normal
+233	181	165	20%	9%	Low Kick
+Mud-Slap
+Earthquake
+Outrage
+Crunch
+Power-Up Punch
+116	Horsea	Water
+102	129	103	50%	10%	Water Gun
+Bubble
+Flash Cannon
+Bubble Beam
+Dragon Pulse
+117	Seadra	Water
+146	187	156	20%	6%	Dragon Breath
+Water Gun
+Dragon Pulse
+Hydro Pump
+Aurora Beam
+118	Goldeen	Water
+128	123	110	50%	15%	Peck
+Mud Shot
+Aqua Tail
+Water Pulse
+Horn Attack
+119	Seaking	Water
+190	175	147	20%	7%	Peck
+Waterfall
+Megahorn
+Ice Beam
+Water Pulse
+120	Staryu	Water
+102	137	112	50%	15%	Tackle
+Water Gun
+Bubble Beam
+Power Gem
+Swift
+121	Starmie	Water
+Psychic	155	210	184	20%	6%	Water Gun
+Hidden Power
+Ice Beam
+Power Gem
+Thunder
+Hydro Pump
+Psychic
+122	Mr.Mime	Psychic
+Fairy	120	192	205	30%	9%	Zen Headbutt
+Confusion
+Psybeam
+Shadow Ball
+Psychic
+122	GalarianMr.Mime	Ice
+Psychic	137	183	169	30%	9%	Zen Headbutt
+Confusion
+Psybeam
+Ice Punch
+Psychic
+123	Scyther	Bug
+Flying	172	218	170	30%	9%	Fury Cutter
+Air Slash
+Aerial Ace
+Night Slash
+X-Scissor
+Frustration (Shadow)
+Return (Shadow)
+124	Jynx	Ice
+Psychic	163	223	151	30%	9%	Frost Breath
+Confusion
+Psyshock
+Draining Kiss
+Focus Blast
+Avalanche
+125	Electabuzz	Electric
+163	198	158	20%	9%	Thunder Shock
+Low Kick
+Thunder Punch
+Thunder
+Thunderbolt
+Frustration (Shadow)
+Return (Shadow)
+126	Magmar	Fire
+163	206	154	20%	9%	Karate Chop
+Ember
+Flamethrower
+Fire Blast
+Fire Punch
+Frustration (Shadow)
+Return (Shadow)
+127	Pinsir	Bug
+163	238	182	30%	9%	Fury Cutter
+Bug Bite
+Rock Smash
+Vise Grip
+X-Scissor
+Close Combat
+Superpower
+128	Tauros	Normal
+181	198	183	30%	9%	Tackle
+Zen Headbutt
+Earthquake
+Iron Head
+Horn Attack
+129	Magikarp	Water
+85	29	85	70%	15%	Splash
+Struggle
+Frustration (Shadow)
+Return (Shadow)
+130	Gyarados	Water
+Flying	216	237	186	10%	7%	Bite
+Dragon Breath
+Waterfall
+Twister
+Hydro Pump
+Outrage
+Crunch
+Frustration (Shadow)
+Return (Shadow)
+130	MegaGyarados	Water
+Dark	216	292	247	10%	7%	Bite
+Dragon Breath
+Waterfall
+Twister
+Hydro Pump
+Outrage
+Crunch
+Frustration (Shadow)
+Return (Shadow)
+131	Lapras	Water
+Ice	277	165	174	5%	9%	Frost Breath
+Water Gun
+Blizzard
+Hydro Pump
+Surf
+Skull Bash
+Frustration (Shadow)
+Return (Shadow)
+132	Ditto	Normal
+134	91	91	20%	10%	Transform
+Struggle
+133	Eevee	Normal
+146	104	114	40%	10%	Quick Attack
+Tackle
+Dig
+Swift
+Last Resort (Community Day)
+134	Vaporeon	Water
+277	205	161	12.5%	6%	Water Gun
+Aqua Tail
+Water Pulse
+Hydro Pump
+Last Resort (Community Day)
+135	Jolteon	Electric
+163	232	182	12.5%	6%	Thunder Shock
+Volt Switch
+Discharge
+Thunder
+Thunderbolt
+Last Resort (Community Day)
+136	Flareon	Fire
+163	246	179	12.5%	6%	Ember
+Fire Spin
+Flamethrower
+Fire Blast
+Overheat
+Last Resort (Community Day)
+137	Porygon	Normal
+163	153	136	40%	9%	Charge Beam
+Hidden Power
+Hyper Beam
+Solar Beam
+Zap Cannon
+Frustration (Shadow)
+Return (Shadow)
+138	Omanyte	Rock
+Water	111	155	153	40%	9%	Mud Shot
+Water Gun
+Bubble Beam
+Ancient Power
+Rock Blast
+139	Omastar	Rock
+Water	172	207	201	15%	5%	Mud Shot
+Water Gun
+Ancient Power
+Hydro Pump
+Rock Blast
+140	Kabuto	Rock
+Water	102	148	140	40%	9%	Mud Shot
+Scratch
+Aqua Jet
+Ancient Power
+Rock Tomb
+141	Kabutops	Rock
+Water	155	220	186	15%	5%	Mud Shot
+Rock Smash
+Waterfall
+Stone Edge
+Ancient Power
+Water Pulse
+142	Aerodactyl	Rock
+Flying	190	221	159	20%	9%	Bite
+Rock Throw
+Steel Wing
+Hyper Beam
+Ancient Power
+Rock Slide
+Iron Head
+Earth Power
+143	Snorlax	Normal
+330	190	169	5%	9%	Lick
+Zen Headbutt
+Hyper Beam
+Earthquake
+Body Slam
+Heavy Slam
+Outrage
+Skull Bash
+Superpower
+Frustration (Shadow)
+Return (Shadow)
+144	Articuno	Ice
+Flying	207	192	236	3%	10%	Ice Shard
+Frost Breath
+Ice Beam
+Blizzard
+Ancient Power
+Icy Wind
+Frustration (Shadow)
+Return (Shadow)
+145	Zapdos	Electric
+Flying	207	253	185	3%	10%	Charge Beam
+Drill Peck
+Ancient Power
+Thunder
+Thunderbolt
+Zap Cannon
+Frustration (Shadow)
+Return (Shadow)
+146	Moltres	Fire
+Flying	207	251	181	3%	10%	Wing Attack
+Fire Spin
+Heat Wave
+Ancient Power
+Fire Blast
+Overheat
+Frustration (Shadow)
+Return (Shadow)
+147	Dratini	Dragon
+121	119	91	40%	9%	Dragon Breath
+Iron Tail
+Wrap
+Aqua Tail
+Twister
+Frustration (Shadow)
+Return (Shadow)
+148	Dragonair	Dragon
+156	163	135	10%	6%	Dragon Breath
+Iron Tail
+Wrap
+Aqua Tail
+Dragon Pulse
+Frustration (Shadow)
+Return (Shadow)
+149	Dragonite	Dragon
+Flying	209	263	198	5%	5%	Dragon Breath
+Steel Wing
+Dragon Tail
+Hyper Beam
+Dragon Claw
+Hurricane
+Outrage
+Draco Meteor (Community Day)
+Frustration (Shadow)
+Return (Shadow)
+150	Mewtwo	Psychic
+214	300	182	6%	10%	Psycho Cut
+Confusion
+Flamethrower
+Ice Beam
+Thunderbolt
+Psychic
+Focus Blast
+150	ArmoredMewtwo	Psychic
+214	182	278	6%	0%	Confusion
+Iron Tail
+Earthquake
+Rock Slide
+Dynamic Punch
+Future Sight
+151	Mew	Psychic
+225	210	210	100%	0%	Shadow Claw
+Frost Breath
+Pound
+Cut
+Poison Jab
+Steel Wing
+Rock Smash
+Charge Beam
+Volt Switch
+Dragon Tail
+Infestation
+Struggle Bug
+Snarl
+Waterfall
+Hyper Beam
+Dark Pulse
+Stone Edge
+Flash Cannon
+Ice Beam
+Blizzard
+Low Sweep
+Psyshock
+Ancient Power
+Rock Slide
+Thunder
+Thunderbolt
+Dragon Claw
+Dazzling Gleam
+Bulldoze
+Flame Charge
+Psychic
+Solar Beam
+Focus Blast
+Wild Charge
+Gyro Ball
+Overheat
+Grass Knot
+Energy Ball
+Surf
+152	Chikorita	Grass
+128	92	122	20%	10%	Vine Whip
+Tackle
+Body Slam
+Grass Knot
+Energy Ball
+153	Bayleef	Grass
+155	122	155	12.5%	7%	Razor Leaf
+Tackle
+Ancient Power
+Grass Knot
+Energy Ball
+154	Meganium	Grass
+190	168	202	5%	5%	Vine Whip
+Razor Leaf
+Earthquake
+Petal Blizzard
+Solar Beam
+Frenzy Plant (Community Day)
+155	Cyndaquil	Fire
+118	116	93	20%	10%	Ember
+Tackle
+Flamethrower
+Flame Charge
+Swift
+156	Quilava	Fire
+151	158	126	12.5%	7%	Ember
+Tackle
+Flamethrower
+Dig
+Flame Charge
+157	Typhlosion	Fire
+186	223	173	5%	5%	Ember
+Shadow Claw
+Incinerate
+Fire Blast
+Solar Beam
+Overheat
+Blast Burn (Community Day)
+158	Totodile	Water
+137	117	109	20%	10%	Scratch
+Water Gun
+Aqua Jet
+Water Pulse
+Crunch
+159	Croconaw	Water
+163	150	142	12.5%	7%	Scratch
+Water Gun
+Ice Punch
+Water Pulse
+Crunch
+160	Feraligatr	Water
+198	205	188	5%	5%	Bite
+Waterfall
+Ice Fang
+Ice Beam
+Hydro Pump
+Crunch
+Hydro Cannon (Community Day)
+161	Sentret	Normal
+111	79	73	50%	20%	Quick Attack
+Scratch
+Dig
+Brick Break
+Grass Knot
+162	Furret	Normal
+198	148	125	15%	7%	Sucker Punch
+Quick Attack
+Hyper Beam
+Dig
+Brick Break
+163	Hoothoot	Normal
+Flying	155	67	88	50%	15%	Peck
+Feint Attack
+Aerial Ace
+Sky Attack
+Night Shade
+164	Noctowl	Normal
+Flying	225	145	156	15%	7%	Wing Attack
+Extrasensory
+Psychic
+Sky Attack
+Night Shade
+165	Ledyba	Bug
+Flying	120	72	118	50%	20%	Bug Bite
+Tackle
+Aerial Ace
+Swift
+Silver Wind
+166	Ledian	Bug
+Flying	146	107	179	15%	7%	Bug Bite
+Struggle Bug
+Aerial Ace
+Bug Buzz
+Silver Wind
+167	Spinarak	Bug
+Poison	120	105	73	50%	20%	Bug Bite
+Poison Sting
+Night Slash
+Cross Poison
+Signal Beam
+168	Ariados	Bug
+Poison	172	161	124	15%	7%	Poison Sting
+Infestation
+Megahorn
+Shadow Sneak
+Cross Poison
+169	Crobat	Poison
+Flying	198	194	178	10%	5%	Bite
+Air Slash
+Shadow Ball
+Sludge Bomb
+Air Cutter
+Frustration (Shadow)
+Return (Shadow)
+170	Chinchou	Water
+Electric	181	106	97	40%	10%	Spark
+Bubble
+Bubble Beam
+Thunderbolt
+Water Pulse
+171	Lanturn	Water
+Electric	268	146	137	15%	7%	Spark
+Water Gun
+Charge Beam
+Thunder
+Thunderbolt
+Hydro Pump
+172	Pichu	Electric
+85	77	53	—	5%	Thunder Shock
+Thunder Punch
+Thunderbolt
+Disarming Voice
+173	Cleffa	Fairy
+137	75	79	—	5%	Pound
+Zen Headbutt
+Psyshock
+Signal Beam
+Grass Knot
+174	Igglybuff	Normal
+Fairy	207	69	32	—	5%	Pound
+Feint Attack
+Shadow Ball
+Psychic
+Wild Charge
+175	Togepi	Fairy
+111	67	116	—	5%	Peck
+Hidden Power
+Psyshock
+Ancient Power
+Dazzling Gleam
+176	Togetic	Fairy
+Flying	146	139	181	20%	5%	Extrasensory
+Hidden Power
+Aerial Ace
+Ancient Power
+Dazzling Gleam
+177	Natu	Psychic
+Flying	120	134	89	40%	15%	Peck
+Quick Attack
+Drill Peck
+Psyshock
+Night Shade
+178	Xatu	Psychic
+Flying	163	192	146	15%	7%	Feint Attack
+Air Slash
+Aerial Ace
+Ominous Wind
+Future Sight
+179	Mareep	Electric
+146	114	79	50%	10%	Thunder Shock
+Tackle
+Discharge
+Thunderbolt
+Body Slam
+Frustration (Shadow)
+Return (Shadow)
+180	Flaaffy	Electric
+172	145	109	25%	7%	Tackle
+Charge Beam
+Discharge
+Power Gem
+Thunderbolt
+Frustration (Shadow)
+Return (Shadow)
+181	Ampharos	Electric
+207	211	169	12.5%	5%	Charge Beam
+Volt Switch
+Power Gem
+Thunder Punch
+Thunder
+Dragon Pulse (Community Day)
+Focus Blast
+Zap Cannon
+Frustration (Shadow)
+Return (Shadow)
+181	MegaAmpharos	Electric
+Dragon 207 294	203	12.5%	5%	Charge Beam
+Volt Switch
+Power Gem
+Thunder Punch
+Thunder
+Dragon Pulse (Community Day)
+Focus Blast
+Zap Cannon
+Frustration (Shadow)
+Return (Shadow)
+182	Bellossom	Grass
+181	169	186	5%	5%	Razor Leaf
+Acid
+Bullet Seed
+Petal Blizzard
+Dazzling Gleam
+Leaf Blade
+Frustration (Shadow)
+Return (Shadow)
+183	Marill	Water
+Fairy	172	37	93	50%	10%	Tackle
+Bubble
+Bubble Beam
+Aqua Tail
+Body Slam
+184	Azumarill	Water
+Fairy	225	112	152	15%	7%	Bubble
+Rock Smash
+Ice Beam
+Play Rough
+Hydro Pump
+185	Sudowoodo	Rock
+172	167	176	12.5%	5%	Rock Throw
+Counter
+Earthquake
+Stone Edge
+Rock Slide
+186	Politoed	Water
+207	174	179	10%	5%	Mud Shot
+Bubble
+Blizzard
+Hydro Pump
+Surf
+Weather Ball - Water
+Frustration (Shadow)
+Return (Shadow)
+187	Hoppip	Grass
+Flying	111	67	94	50%	12%	Tackle
+Bullet Seed
+Seed Bomb
+Dazzling Gleam
+Grass Knot
+188	Skiploom	Grass
+Flying	146	91	120	25%	7%	Tackle
+Bullet Seed
+Dazzling Gleam
+Grass Knot
+Energy Ball
+189	Jumpluff	Grass
+Flying	181	118	183	12.5%	5%	Infestation
+Bullet Seed
+Aerial Ace
+Dazzling Gleam
+Solar Beam
+Energy Ball
+190	Aipom	Normal
+146	136	112	20%	9%	Scratch
+Astonish
+Aerial Ace
+Low Sweep
+Swift
+191	Sunkern	Grass
+102	55	55	50%	9%	Razor Leaf
+Cut
+Seed Bomb
+Grass Knot
+Energy Ball
+192	Sunflora	Grass
+181	185	135	10%	7%	Razor Leaf
+Bullet Seed
+Petal Blizzard
+Sludge Bomb
+Solar Beam
+193	Yanma	Bug
+Flying	163	154	94	30%	10%	Wing Attack
+Quick Attack
+Aerial Ace
+Ancient Power
+Silver Wind
+194	Wooper	Water
+Ground	146	75	66	40%	10%	Mud Shot
+Water Gun
+Dig
+Mud Bomb
+Body Slam
+195	Quagsire	Water
+Ground	216	152	143	15%	7%	Mud Shot
+Water Gun
+Earthquake
+Stone Edge
+Sludge Bomb
+Acid Spray
+196	Espeon	Psychic
+163	261	175	12.5%	5%	Zen Headbutt
+Confusion
+Psybeam
+Psychic
+Future Sight
+Last Resort (Community Day)
+197	Umbreon	Dark
+216	126	240	12.5%	5%	Feint Attack
+Snarl
+Dark Pulse
+Foul Play
+Last Resort (Community Day)
+198	Murkrow	Dark
+Flying	155	175	87	20%	10%	Peck
+Feint Attack
+Dark Pulse
+Drill Peck
+Foul Play
+199	Slowking	Water
+Psychic	216	177	180	10%	5%	Water Gun
+Confusion
+Blizzard
+Fire Blast
+Psychic
+200	Misdreavus	Ghost
+155	167	154	30%	7%	Astonish
+Hex
+Dark Pulse
+Shadow Sneak
+Ominous Wind
+201	Unown	Psychic
+134	136	91	30%	10%	Hidden Power
+Struggle
+202	Wobbuffet	Psychic
+382	60	106	25%	7%	Splash
+Counter
+Charm
+Mirror Coat
+Frustration (Shadow)
+Return (Shadow)
+203	Girafarig	Normal
+Psychic	172	182	133	30%	7%	Tackle
+Confusion
+Thunderbolt
+Psychic
+Mirror Coat
+204	Pineco	Bug
+137	108	122	40%	12%	Bug Bite
+Tackle
+Rock Tomb
+Sand Tomb
+Gyro Ball
+205	Forretress	Bug
+Steel	181	161	205	15%	7%	Bug Bite
+Struggle Bug
+Earthquake
+Rock Tomb
+Sand Tomb
+Heavy Slam
+Mirror Shot
+206	Dunsparce	Normal
+225	131	128	30%	20%	Bite
+Astonish
+Dig
+Drill Run
+Rock Slide
+207	Gligar	Ground
+Flying	163	143	184	20%	7%	Fury Cutter
+Wing Attack
+Dig
+Aerial Ace
+Night Slash
+208	Steelix	Steel
+Ground	181	148	272	10%	5%	Dragon Tail
+Iron Tail
+Thunder Fang
+Earthquake
+Heavy Slam
+Crunch
+209	Snubbull	Fairy
+155	137	85	40%	10%	Bite
+Tackle
+Dazzling Gleam
+Brick Break
+Crunch
+210	Granbull	Fairy
+207	212	131	15%	8%	Bite
+Snarl
+Charm
+Play Rough
+Close Combat
+Crunch
+211	Qwilfish	Water
+Poison	163	184	138	30%	8%	Water Gun
+Poison Sting
+Ice Beam
+Aqua Tail
+Sludge Wave
+Acid Spray
+Fell Stinger
+212	Scizor	Bug
+Steel	172	236	181	5%	5%	Fury Cutter
+Bullet Punch
+Night Slash
+Iron Head
+X-Scissor
+Frustration (Shadow)
+Return (Shadow)
+213	Shuckle	Bug
+Rock	85	17	396	30%	7%	Rock Throw
+Struggle Bug
+Stone Edge
+Rock Blast
+Gyro Ball
+214	Heracross	Bug
+Fighting	190	234	179	30%	9%	Counter
+Struggle Bug
+Megahorn
+Earthquake
+Close Combat
+215	Sneasel	Dark
+Ice	146	189	146	20%	7%	Ice Shard
+Feint Attack
+Ice Punch
+Avalanche
+Foul Play
+Frustration (Shadow)
+Return (Shadow)
+216	Teddiursa	Normal
+155	142	93	50%	20%	Lick
+Scratch
+Cross Chop
+Play Rough
+Crunch
+217	Ursaring	Normal
+207	236	144	15%	7%	Shadow Claw
+Metal Claw
+Counter
+Hyper Beam
+Play Rough
+Close Combat
+218	Slugma	Fire
+120	118	71	30%	10%	Ember
+Rock Throw
+Rock Slide
+Flame Charge
+Flame Burst
+219	Magcargo	Fire
+Rock	137	139	191	12.5%	6%	Ember
+Rock Throw
+Stone Edge
+Heat Wave
+Overheat
+220	Swinub	Ice
+Ground	137	90	69	30%	10%	Tackle
+Powder Snow
+Rock Slide
+Icy Wind
+Body Slam
+221	Piloswine	Ice
+Ground	225	181	138	12.5%	6%	Ice Shard
+Powder Snow
+Stone Edge
+Bulldoze
+Avalanche
+222	Corsola	Water
+Rock	146	118	156	30%	12%	Tackle
+Bubble
+Bubble Beam
+Power Gem
+Rock Blast
+223	Remoraid	Water
+111	127	69	50%	10%	Mud Shot
+Water Gun
+Water Pulse
+Aurora Beam
+Rock Blast
+224	Octillery	Water
+181	197	141	15%	7%	Mud Shot
+Water Gun
+Gunk Shot
+Water Pulse
+Aurora Beam
+Acid Spray
+Octazooka
+225	Delibird	Ice
+Flying	128	128	90	20%	20%	Present
+Ice Punch
+Aerial Ace
+Icy Wind
+Frustration (Shadow)
+Return (Shadow)
+226	Mantine	Water
+Flying	163	148	226	30%	7%	Wing Attack
+Bubble
+Bullet Seed
+Ice Beam
+Aerial Ace
+Bubble Beam
+Water Pulse
+227	Skarmory	Steel
+Flying	163	148	226	20%	9%	Steel Wing
+Air Slash
+Flash Cannon
+Brave Bird
+Sky Attack
+228	Houndour	Dark
+Fire	128	152	83	40%	10%	Ember
+Feint Attack
+Dark Pulse
+Flamethrower
+Crunch
+Frustration (Shadow)
+Return (Shadow)
+229	Houndoom	Dark
+Fire	181	224	144	15%	6%	Fire Fang
+Snarl
+Flamethrower
+Fire Blast
+Crunch
+Foul Play
+Frustration (Shadow)
+Return (Shadow)
+229	MegaHoundoom	Dark
+Fire	181	289	194	15%	6%	Fire Fang
+Snarl
+Flamethrower
+Fire Blast
+Crunch
+Foul Play
+Frustration (Shadow)
+Return (Shadow)
+230	Kingdra	Water
+Dragon	181	194	194	10%	5%	Dragon Breath
+Waterfall
+Blizzard
+Hydro Pump
+Outrage
+Octazooka
+231	Phanpy	Ground
+207	107	98	50%	20%	Tackle
+Rock Smash
+Rock Slide
+Bulldoze
+Body Slam
+232	Donphan	Ground
+207	214	185	12.5%	7%	Tackle
+Mud-Slap
+Counter
+Charm
+Earthquake
+Play Rough
+Heavy Slam
+233	Porygon2	Normal
+198	198	180	5%	5%	Charge Beam
+Hidden Power
+Lock-On
+Hyper Beam
+Solar Beam
+Zap Cannon
+Frustration (Shadow)
+Return (Shadow)
+Tri Attack
+234	Stantler	Normal
+177	192	131	30%	8%	Tackle
+Zen Headbutt
+Megahorn
+Stomp
+Wild Charge
+Frustration (Shadow)
+Return (Shadow)
+235	Smeargle	Normal
+146	40	83	25%	7% N/A
+236	Tyrogue	Fighting
+111	64	64	—	20%	Tackle
+Rock Smash
+Low Sweep
+Rock Slide
+Brick Break
+237	Hitmontop	Fighting
+137	173	207	10%	5%	Rock Smash
+Counter
+Stone Edge
+Close Combat
+Gyro Ball
+238	Smoochum	Ice
+Psychic	128	153	91	25%	20%	Pound
+Powder Snow
+Ice Punch
+Ice Beam
+Psyshock
+239	Elekid	Electric
+128	135	101	—	20%	Thunder Shock
+Low Kick
+Discharge
+Thunder Punch
+Brick Break
+240	Magby	Fire
+128	151	99	—	20%	Karate Chop
+Ember
+Flame Burst
+Fire Punch
+Brick Break
+241	Miltank	Normal
+216	157	193	20%	8%	Tackle
+Zen Headbutt
+Ice Beam
+Thunderbolt
+Stomp
+Body Slam
+Gyro Ball
+242	Blissey	Normal
+496	129	169	5%	5%	Pound
+Zen Headbutt
+Hyper Beam
+Dazzling Gleam
+Psychic
+243	Raikou	Electric
+207	241	195	2%	4%	Thunder Shock
+Volt Switch
+Shadow Ball
+Thunder
+Thunderbolt
+Wild Charge
+244	Entei	Fire
+251	235	171	2%	4%	Fire Fang
+Fire Spin
+Flamethrower
+Iron Head
+Flame Charge
+Fire Blast
+Overheat
+245	Suicune	Water
+225	180	235	2%	4%	Extrasensory
+Snarl
+Ice Fang
+Ice Beam
+Bubble Beam
+Water Pulse
+Hydro Pump
+246	Larvitar	Rock
+Ground	137	115	93	40%	10%	Bite
+Rock Smash
+Ancient Power
+Stomp
+Crunch
+Frustration (Shadow)
+Return (Shadow)
+247	Pupitar	Rock
+Ground	172	155	133	10%	7%	Bite
+Rock Smash
+Dig
+Ancient Power
+Crunch
+Frustration (Shadow)
+Return (Shadow)
+248	Tyranitar	Rock
+Dark	225	251	207	5%	4%	Bite
+Iron Tail
+Smack Down (Community Day)
+Stone Edge
+Fire Blast
+Crunch
+Frustration (Shadow)
+Return (Shadow)
+249	Lugia	Psychic
+Flying	235	193	310	2%	4%	Dragon Tail
+Extrasensory
+Hydro Pump
+Sky Attack
+Future Sight
+250	Ho-Oh	Fire
+Flying	214	239	244	2%	4%	Steel Wing
+Extrasensory
+Hidden Power
+Incinerate
+Fire Blast
+Solar Beam
+Brave Bird
+251	Celebi	Psychic
+Grass	225	210	210	100%	0%	Confusion
+Charge Beam
+Hyper Beam
+Seed Bomb
+Dazzling Gleam
+Psychic
+252	Treecko	Grass
+120	124	94	20%	10%	Pound
+Bullet Seed
+Aerial Ace
+Grass Knot
+Energy Ball
+253	Grovyle	Grass
+137	172	120	10%	7%	Quick Attack
+Bullet Seed
+Aerial Ace
+Leaf Blade
+Grass Knot
+254	Sceptile	Grass
+172	223	169	5%	5%	Fury Cutter
+Bullet Seed
+Earthquake
+Aerial Ace
+Dragon Claw
+Leaf Blade
+Frenzy Plant (Community Day)
+255	Torchic	Fire
+128	130	87	20%	10%	Ember
+Scratch
+Flamethrower
+Rock Tomb
+Flame Charge
+256	Combusken	Fire
+Fighting	155	163	115	10%	7%	Ember
+Peck
+Flamethrower
+Rock Slide
+Flame Charge
+257	Blaziken	Fire
+Fighting	190	240	141	5%	5%	Counter
+Fire Spin
+Focus Blast
+Brave Bird
+Overheat
+Blast Burn (Community Day)
+Blaze Kick
+258	Mudkip	Water
+137	126	93	20%	10%	Tackle
+Water Gun
+Sludge
+Dig
+Stomp
+Frustration (Shadow)
+Return (Shadow)
+259	Marshtomp	Water
+Ground	172	156	133	10%	7%	Mud Shot
+Water Gun
+Sludge
+Mud Bomb
+Surf
+Frustration (Shadow)
+Return (Shadow)
+260	Swampert	Water
+Ground	225	208	175	5%	5%	Mud Shot
+Water Gun
+Earthquake
+Sludge Wave
+Surf
+Hydro Cannon (Community Day)
+Muddy Water
+Frustration (Shadow)
+Return (Shadow)
+261	Poochyena	Dark
+111	96	61	50%	20%	Tackle
+Snarl
+Dig
+Poison Fang
+Crunch
+262	Mightyena	Dark
+172	171	132	20%	7%	Bite
+Fire Fang
+Thunder Fang
+Ice Fang
+Poison Fang
+Play Rough
+Crunch
+263	Zigzagoon	Normal
+116	58	80	50%	20%	Tackle
+Rock Smash
+Dig
+Thunderbolt
+Grass Knot
+263	GalarianZigzagoon	Dark
+Normal	116	58	80	50%	20%	Tackle
+Take Down
+Dig
+Swift
+Body Slam
+264	Linoone	Normal
+186	142	128	20%	7%	Shadow Claw
+Tackle
+Dig
+Thunder
+Grass Knot
+264	GalarianLinoone	Dark
+Normal	186	142	128	20%	7%	Lick
+Snarl
+Dig
+Gunk Shot
+Body Slam
+265	Wurmple	Bug
+128	75	59	50%	20%	Bug Bite
+Tackle
+Struggle
+266	Silcoon	Bug
+137	60	77	25%	9%	Bug Bite
+Poison Sting
+Struggle
+267	Beautifly	Bug
+Flying	155	189	98	12.5%	6%	Infestation
+Struggle Bug
+Bug Buzz
+Air Cutter
+Silver Wind
+268	Cascoon	Bug
+137	60	77	25%	9%	Bug Bite
+Poison Sting
+Struggle
+269	Dustox	Bug
+Poison	155	98	162	12.5%	6%	Confusion
+Struggle Bug
+Bug Buzz
+Sludge Bomb
+Silver Wind
+270	Lotad	Water
+Grass	120	71	77	50%	20%	Razor Leaf
+Water Gun
+Bubble Beam
+Energy Ball
+271	Lombre	Water
+Grass	155	112	119	25%	9%	Razor Leaf
+Bubble
+Ice Beam
+Bubble Beam
+Grass Knot
+272	Ludicolo	Water
+Grass	190	173	176	12.5%	6%	Razor Leaf
+Bubble
+Ice Beam
+Blizzard
+Hydro Pump
+Solar Beam
+Energy Ball
+273	Seedot	Grass
+120	71	77	50%	20%	Quick Attack
+Bullet Seed
+Grass Knot
+Energy Ball
+Foul Play
+Frustration (Shadow)
+Return (Shadow)
+274	Nuzleaf	Grass
+Dark	172	134	78	25%	9%	Razor Leaf
+Feint Attack
+Leaf Blade
+Grass Knot
+Foul Play
+Frustration (Shadow)
+Return (Shadow)
+275	Shiftry	Grass
+Dark	207	200	121	12.5%	6%	Razor Leaf
+Feint Attack
+Snarl
+Leaf Blade
+Hurricane
+Foul Play
+Leaf Tornado
+Frustration (Shadow)
+Return (Shadow)
+276	Taillow	Normal
+Flying	120	106	61	50%	20%	Peck
+Quick Attack
+Aerial Ace
+277	Swellow	Normal
+Flying	155	185	124	20%	7%	Wing Attack
+Steel Wing
+Aerial Ace
+Brave Bird
+Sky Attack
+278	Wingull	Water
+Flying	120	106	61	50%	20%	Quick Attack
+Water Gun
+Ice Beam
+Water Pulse
+Air Cutter
+279	Pelipper	Water
+Flying	155	175	174	20%	7%	Wing Attack
+Water Gun
+Blizzard
+Hydro Pump
+Hurricane
+Weather Ball - Water
+280	Ralts	Psychic
+Fairy	99	79	59	40%	9%	Confusion
+Charge Beam
+Psyshock
+Shadow Sneak
+Disarming Voice
+Frustration (Shadow)
+Return (Shadow)
+281	Kirlia	Psychic
+Fairy	116	117	90	10%	6%	Confusion
+Charge Beam
+Shadow Sneak
+Disarming Voice
+Psychic
+Frustration (Shadow)
+Return (Shadow)
+282	Gardevoir	Psychic
+Fairy	169	237	195	5%	5%	Confusion
+Charge Beam
+Charm
+Shadow Ball
+Dazzling Gleam
+Psychic
+Frustration (Shadow)
+Return (Shadow)
+Synchronoise (Community Day)
+283	Surskit	Bug
+Water	120	93	87	50%	20%	Bug Bite
+Bubble
+Bubble Beam
+Aqua Jet
+Signal Beam
+284	Masquerain	Bug
+Flying	172	192	150	20%	7%	Air Slash
+Infestation
+Bubble Beam
+Ominous Wind
+Air Cutter
+Silver Wind
+Lunge
+285	Shroomish	Grass
+155	74	110	50%	20%	Tackle
+Bullet Seed
+Seed Bomb
+Grass Knot
+Energy Ball
+286	Breloom	Grass
+Fighting	155	241	144	20%	7%	Counter
+Bullet Seed
+Seed Bomb
+Sludge Bomb
+Dynamic Punch
+287	Slakoth	Normal
+155	104	92	40%	9%	Yawn
+Night Slash
+Brick Break
+Body Slam
+288	Vigoroth	Normal
+190	159	145	10%	6%	Scratch
+Counter
+Bulldoze
+Brick Break
+Body Slam
+289	Slaking	Normal
+284	290	166	5%	5%	Yawn
+Hyper Beam
+Earthquake
+Play Rough
+Body Slam (Community Day)
+290	Nincada	Bug
+Ground	104	80	126	20%	10%	Bug Bite
+Scratch
+Aerial Ace
+Bug Buzz
+Night Slash
+291	Ninjask	Bug
+Flying	156	199	112	10%	7%	Fury Cutter
+Metal Claw
+Aerial Ace
+Bug Buzz
+Shadow Ball
+292	Shedinja	Bug
+Ghost	1	153	73	5%	5%	Bug Bite
+Shadow Claw
+Dig
+Aerial Ace
+Shadow Sneak
+293	Whismur	Normal
+162	92	42	50%	20%	Pound
+Astonish
+Flamethrower
+Disarming Voice
+Stomp
+294	Loudred	Normal
+197	134	81	25%	9%	Bite
+Rock Smash
+Flamethrower
+Disarming Voice
+Stomp
+295	Exploud	Normal
+232	179	137	12.5%	6%	Bite
+Astonish
+Disarming Voice
+Fire Blast
+Crunch
+296	Makuhita	Fighting
+176	99	54	50%	10%	Tackle
+Rock Smash
+Cross Chop
+Low Sweep
+Heavy Slam
+297	Hariyama	Fighting
+302	209	114	20%	6%	Bullet Punch
+Counter
+Close Combat
+Dynamic Punch
+Heavy Slam
+Superpower
+298	Azurill	Normal
+Fairy	137	36	71	10%	4%	Splash
+Bubble
+Ice Beam
+Bubble Beam
+Body Slam
+299	Nosepass	Rock
+102	82	215	20%	9%	Spark
+Rock Throw
+Rock Slide
+Thunderbolt
+Rock Blast
+300	Skitty	Normal
+137	84	79	50%	10%	Tackle
+Feint Attack
+Dig
+Disarming Voice
+Wild Charge
+301	Delcatty	Normal
+172	132	127	20%	6%	Zen Headbutt
+Feint Attack
+Charm
+Disarming Voice
+Play Rough
+Wild Charge
+302	Sableye	Dark
+Ghost	137	141	136	20%	7%	Shadow Claw
+Feint Attack
+Power Gem
+Shadow Sneak
+Foul Play
+Frustration (Shadow)
+Return (Shadow)
+303	Mawile	Steel
+Fairy	137	155	141	50%	9%	Bite
+Fire Fang
+Astonish
+Ice Fang
+Vise Grip
+Iron Head
+Play Rough
+Power-Up Punch
+304	Aron	Steel
+Rock	137	121	141	50%	20%	Tackle
+Metal Claw
+Rock Tomb
+Iron Head
+Body Slam
+305	Lairon	Steel
+Rock	155	158	198	25%	9%	Metal Claw
+Iron Tail
+Rock Slide
+Body Slam
+Heavy Slam
+306	Aggron	Steel
+Rock	172	198	257	12.5%	6%	Dragon Tail
+Iron Tail
+Smack Down
+Stone Edge
+Thunder
+Heavy Slam
+307	Meditite	Fighting
+Psychic	102	78	107	50%	10%	Confusion
+Rock Smash
+Ice Punch
+Low Sweep
+Psyshock
+308	Medicham	Fighting
+Psychic	155	121	152	20%	6%	Psycho Cut
+Counter
+Ice Punch
+Psychic
+Dynamic Punch
+Power-Up Punch
+309	Electrike	Electric
+120	123	78	50%	10%	Spark
+Quick Attack
+Discharge
+Thunderbolt
+Swift
+310	Manectric	Electric
+172	215	127	20%	6%	Charge Beam
+Snarl
+Thunder
+Flame Burst
+Wild Charge
+311	Plusle	Electric
+155	167	129	30%	9%	Spark
+Quick Attack
+Discharge
+Thunderbolt
+Swift
+Grass Knot
+312	Minun	Electric
+155	147	150	30%	9%	Spark
+Quick Attack
+Discharge
+Thunderbolt
+Swift
+Grass Knot
+313	Volbeat	Bug
+163	143	166	30%	9%	Tackle
+Struggle Bug
+Bug Buzz
+Thunderbolt
+Signal Beam
+314	Illumise	Bug
+163	143	166	30%	9%	Tackle
+Struggle Bug
+Bug Buzz
+Dazzling Gleam
+Silver Wind
+315	Roselia	Grass
+Poison	137	186	131	30%	9%	Razor Leaf
+Poison Jab
+Petal Blizzard
+Dazzling Gleam
+Sludge Bomb
+316	Gulpin	Poison
+172	80	99	50%	10%	Pound
+Rock Smash
+Sludge
+Ice Beam
+Gunk Shot
+317	Swalot	Poison
+225	140	159	20%	6%	Rock Smash
+Infestation
+Ice Beam
+Sludge Bomb
+Gunk Shot
+Acid Spray
+318	Carvanha	Water
+Dark	128	171	39	50%	10%	Bite
+Snarl
+Poison Fang
+Aqua Jet
+Crunch
+319	Sharpedo	Water
+Dark	172	243	83	20%	6%	Bite
+Waterfall
+Poison Fang
+Hydro Pump
+Crunch
+320	Wailmer	Water
+277	136	68	50%	10%	Water Gun
+Splash
+Water Pulse
+Body Slam
+Heavy Slam
+321	Wailord	Water
+347	175	87	20%	6%	Water Gun
+Zen Headbutt
+Hyper Beam
+Blizzard
+Surf
+322	Numel	Fire
+Ground	155	119	79	50%	10%	Ember
+Tackle
+Heat Wave
+Bulldoze
+Stomp
+323	Camerupt	Fire
+Ground	172	194	136	20%	6%	Ember
+Rock Smash
+Earthquake
+Solar Beam
+Overheat
+Earth Power
+324	Torkoal	Fire
+172	151	203	30%	9%	Ember
+Fire Spin
+Earthquake
+Solar Beam
+Overheat
+325	Spoink	Psychic
+155	125	122	50%	10%	Splash
+Zen Headbutt
+Psybeam
+Shadow Ball
+Mirror Coat
+326	Grumpig	Psychic
+190	171	188	20%	6%	Charge Beam
+Extrasensory
+Shadow Ball
+Psychic
+Mirror Coat
+327	Spinda	Normal
+155	116	116	30%	9%	Sucker Punch
+Psycho Cut
+Dig
+Rock Tomb
+Icy Wind
+328	Trapinch	Ground
+128	162	78	40%	9%	Mud Shot
+Struggle Bug
+Dig
+Sand Tomb
+Crunch
+Frustration (Shadow)
+Return (Shadow)
+329	Vibrava	Ground
+Dragon	137	134	99	10%	6%	Dragon Breath
+Mud Shot
+Bug Buzz
+Bulldoze
+Sand Tomb
+Frustration (Shadow)
+Return (Shadow)
+330	Flygon	Ground
+Dragon	190	205	168	5%	5%	Mud Shot
+Dragon Tail
+Earthquake
+Stone Edge
+Dragon Claw
+Earth Power (Community Day)
+Frustration (Shadow)
+Return (Shadow)
+331	Cacnea	Grass
+137	156	74	50%	10%	Sucker Punch
+Poison Sting
+Seed Bomb
+Brick Break
+Grass Knot
+Frustration (Shadow)
+Return (Shadow)
+332	Cacturne	Grass
+Dark	172	221	115	20%	6%	Sucker Punch
+Poison Jab
+Dark Pulse
+Dynamic Punch
+Grass Knot
+Frustration (Shadow)
+Return (Shadow)
+333	Swablu	Normal
+Flying	128	76	132	50%	10%	Peck
+Astonish
+Ice Beam
+Aerial Ace
+Disarming Voice
+334	Altaria	Dragon
+Flying	181	141	201	20%	6%	Dragon Breath
+Peck
+Dragon Pulse
+Dazzling Gleam
+Sky Attack
+335	Zangoose	Normal
+177	222	124	30%	9%	Fury Cutter
+Shadow Claw
+Dig
+Night Slash
+Close Combat
+336	Seviper	Poison
+177	196	118	30%	9%	Poison Jab
+Iron Tail
+Wrap
+Poison Fang
+Crunch
+337	Lunatone	Rock
+Psychic	207	178	153	30%	9%	Rock Throw
+Confusion
+Rock Slide
+Moonblast
+Psychic
+338	Solrock	Rock
+Psychic	207	178	153	30%	9%	Rock Throw
+Confusion
+Rock Slide
+Psychic
+Solar Beam
+339	Barboach	Water
+Ground	137	93	82	50%	10%	Mud Shot
+Water Gun
+Ice Beam
+Aqua Tail
+Mud Bomb
+340	Whiscash	Water
+Ground	242	151	141	20%	6%	Mud Shot
+Water Gun
+Blizzard
+Mud Bomb
+Water Pulse
+341	Corphish	Water
+125	141	99	50%	10%	Bubble
+Rock Smash
+Vise Grip
+Bubble Beam
+Aqua Jet
+342	Crawdaunt	Water
+Dark	160	224	142	20%	6%	Snarl
+Waterfall
+Vise Grip
+Night Slash
+Bubble Beam
+Crabhammer
+343	Baltoy	Ground
+Psychic	120	77	124	50%	10%	Confusion
+Extrasensory
+Dig
+Psybeam
+Gyro Ball
+344	Claydol	Ground
+Psychic	155	140	229	20%	6%	Mud-Slap
+Confusion
+Extrasensory
+Earthquake
+Ice Beam
+Shadow Ball
+Psychic
+Gyro Ball
+Earth Power
+345	Lileep	Rock
+Grass	165	105	150	50%	10%	Acid
+Infestation
+Ancient Power
+Grass Knot
+Mirror Coat
+346	Cradily	Rock
+Grass	200	152	194	20%	6%	Acid
+Infestation
+Bullet Seed
+Stone Edge
+Bulldoze
+Grass Knot
+347	Anorith	Rock
+Bug	128	176	100	50%	10%	Scratch
+Struggle Bug
+Aqua Jet
+Ancient Power
+Cross Poison
+348	Armaldo	Rock
+Bug	181	222	174	20%	6%	Fury Cutter
+Struggle Bug
+Cross Poison
+Water Pulse
+Rock Blast
+349	Feebas	Water
+85	29	85	70%	15%	Tackle
+Splash
+Mirror Coat
+350	Milotic	Water
+216	192	219	10%	7%	Dragon Tail
+Waterfall
+Hyper Beam
+Blizzard
+Surf
+351	Castform	Normal
+172	139	139	30%	10%	Tackle
+Hex
+Hurricane
+Energy Ball
+Weather Ball - Normal
+351	CastformSunny	Fire
+172	139	139	30%	10%	Ember
+Tackle
+Fire Blast
+Solar Beam
+Weather Ball - Fire
+351	CastformRainy	Water
+172	139	139	30%	10%	Tackle
+Water Gun
+Thunder
+Hydro Pump
+Weather Ball - Water
+351	CastformSnowy	Ice
+172	139	139	30%	10%	Tackle
+Powder Snow
+Ice Beam
+Blizzard
+Weather Ball - Ice
+353	Shuppet	Ghost
+127	138	65	40%	10%	Feint Attack
+Astonish
+Shadow Sneak
+Ominous Wind
+Night Shade
+Frustration (Shadow)
+Return (Shadow)
+354	Banette	Ghost
+162	218	126	20%	7%	Shadow Claw
+Hex
+Shadow Ball
+Thunder
+Dazzling Gleam
+Frustration (Shadow)
+Return (Shadow)
+355	Duskull	Ghost
+85	70	162	40%	10%	Astonish
+Hex
+Shadow Sneak
+Ominous Wind
+Night Shade
+Frustration (Shadow)
+Return (Shadow)
+356	Dusclops	Ghost
+120	124	234	20%	7%	Feint Attack
+Hex
+Ice Punch
+Shadow Punch
+Fire Punch
+Frustration (Shadow)
+Return (Shadow)
+357	Tropius	Grass
+Flying	223	136	163	30%	10%	Razor Leaf
+Air Slash
+Aerial Ace
+Leaf Blade
+Stomp
+358	Chimecho	Psychic
+181	175	170	30%	10%	Astonish
+Extrasensory
+Psyshock
+Shadow Ball
+Energy Ball
+359	Absol	Dark
+163	246	120	50%	10%	Psycho Cut
+Snarl
+Dark Pulse
+Megahorn
+Thunder
+Frustration (Shadow)
+Return (Shadow)
+360	Wynaut	Psychic
+216	41	86	30%	10%	Splash
+Counter
+Mirror Coat
+361	Snorunt	Ice
+137	95	95	50%	10%	Powder Snow
+Hex
+Shadow Ball
+Icy Wind
+Avalanche
+362	Glalie	Ice
+190	162	162	20%	6%	Ice Shard
+Frost Breath
+Shadow Ball
+Avalanche
+Gyro Ball
+363	Spheal	Ice
+Water	172	95	90	50%	10%	Water Gun
+Rock Smash
+Water Pulse
+Body Slam
+Aurora Beam
+364	Sealeo	Ice
+Water	207	137	132	25%	7%	Water Gun
+Powder Snow
+Water Pulse
+Body Slam
+Aurora Beam
+365	Walrein	Ice
+Water	242	182	176	12.5%	5%	Frost Breath
+Waterfall
+Earthquake
+Blizzard
+Water Pulse
+366	Clamperl	Water
+111	133	135	50%	10%	Water Gun
+Ice Beam
+Water Pulse
+Body Slam
+367	Huntail	Water
+146	197	179	20%	6%	Bite
+Water Gun
+Ice Beam
+Aqua Tail
+Crunch
+368	Gorebyss	Water
+146	211	179	20%	6%	Water Gun
+Confusion
+Draining Kiss
+Water Pulse
+Psychic
+369	Relicanth	Water
+Rock	225	162	203	90%	1%	Water Gun
+Zen Headbutt
+Aqua Tail
+Ancient Power
+Hydro Pump
+370	Luvdisc	Water
+125	81	128	30%	10%	Water Gun
+Splash
+Aqua Jet
+Draining Kiss
+Water Pulse
+371	Bagon	Dragon
+128	134	93	40%	9%	Bite
+Ember
+Flamethrower
+Twister
+Crunch
+Frustration (Shadow)
+Return (Shadow)
+372	Shelgon	Dragon
+163	172	155	10%	6%	Dragon Breath
+Ember
+Flamethrower
+Twister
+Dragon Pulse
+Frustration (Shadow)
+Return (Shadow)
+373	Salamence	Dragon
+Flying	216	277	168	5%	5%	Bite
+Fire Fang
+Dragon Tail
+Fire Blast
+Hydro Pump
+Outrage (Community Day)
+Draco Meteor
+Frustration (Shadow)
+Return (Shadow)
+374	Beldum	Steel
+Psychic	120	96	132	40%	9%	Take Down
+Struggle
+375	Metang	Steel
+Psychic	155	138	176	10%	6%	Metal Claw
+Zen Headbutt
+Psyshock
+Psychic
+Gyro Ball
+376	Metagross	Steel
+Psychic	190	257	228	5%	5%	Bullet Punch
+Zen Headbutt
+Earthquake
+Flash Cannon
+Psychic
+Meteor Mash (Community Day)
+377	Regirock	Rock
+190	179	309	2%	1%	Rock Throw
+Rock Smash
+Lock-On
+Stone Edge
+Focus Blast
+Zap Cannon
+378	Regice	Ice
+190	179	309	2%	1%	Frost Breath
+Rock Smash
+Lock-On
+Earthquake
+Blizzard
+Focus Blast
+379	Registeel	Steel
+190	143	285	2%	1%	Metal Claw
+Rock Smash
+Lock-On
+Hyper Beam
+Flash Cannon
+Focus Blast
+380	Latias	Dragon
+Psychic	190	228	246	2%	1%	Dragon Breath
+Zen Headbutt
+Charm
+Thunder
+Psychic
+Outrage
+381	Latios	Dragon
+Psychic	190	268	212	2%	1%	Dragon Breath
+Zen Headbutt
+Dragon Claw
+Psychic
+Solar Beam
+382	Kyogre	Water
+205	270	228	2%	1%	Waterfall
+Blizzard
+Thunder
+Hydro Pump
+Surf
+383	Groudon	Ground
+205	270	228	2%	1%	Mud Shot
+Dragon Tail
+Earthquake
+Fire Blast
+Solar Beam
+384	Rayquaza	Dragon
+Flying	213	284	170	2%	1%	Dragon Tail
+Air Slash
+Aerial Ace
+Ancient Power
+Outrage
+385	Jirachi	Steel
+Psychic	225	210	210	100%	0%	Confusion
+Charge Beam
+Dazzling Gleam
+Psychic
+Doom Desire
+386	DeoxysNormal Psychic
+137	345	115	2%	1%	Zen Headbutt
+Charge Beam
+Hyper Beam
+Zap Cannon
+Psycho Boost
+386	DeoxysAttack	Psychic
+137	414	46	2%	1%	Poison Jab
+Zen Headbutt
+Dark Pulse
+Zap Cannon
+Psycho Boost
+386	DeoxysDefense	Psychic
+137	144	330	2%	1%	Zen Headbutt
+Counter
+Rock Slide
+Thunderbolt
+Psycho Boost
+386	DeoxysSpeed	Psychic
+137	230	218	2%	1%	Zen Headbutt
+Charge Beam
+Thunderbolt
+Swift
+Psycho Boost
+387	Turtwig	Grass
+146	119	110	20%	10%	Razor Leaf
+Tackle
+Seed Bomb
+Body Slam
+Energy Ball
+Frustration (Shadow)
+Return (Shadow)
+388	Grotle	Grass
+181	157	143	10%	7%	Bite
+Razor Leaf
+Solar Beam
+Body Slam
+Energy Ball
+Frustration (Shadow)
+Return (Shadow)
+389	Torterra	Grass
+Ground	216	202	188	5%	5%	Bite
+Razor Leaf
+Earthquake
+Stone Edge
+Solar Beam
+Sand Tomb
+Frenzy Plant (Community Day)
+Frustration (Shadow)
+Return (Shadow)
+390	Chimchar	Fire
+127	113	86	20%	10%	Ember
+Scratch
+Flame Wheel
+Flamethrower
+Flame Charge
+391	Monferno	Fire
+Fighting	162	158	105	10%	7%	Ember
+Rock Smash
+Flame Wheel
+Flamethrower
+Low Sweep
+392	Infernape	Fire
+Fighting	183	222	151	5%	5%	Rock Smash
+Fire Spin
+Flamethrower
+Solar Beam
+Close Combat
+Blast Burn (Community Day)
+393	Piplup	Water
+142	112	102	20%	10%	Pound
+Bubble
+Drill Peck
+Bubble Beam
+Icy Wind
+394	Prinplup	Water
+162	150	139	10%	7%	Metal Claw
+Bubble
+Bubble Beam
+Hydro Pump
+Icy Wind
+395	Empoleon	Water
+Steel	197	210	186	5%	5%	Metal Claw
+Waterfall
+Flash Cannon
+Drill Peck
+Blizzard
+Hydro Pump
+Hydro Cannon (Community Day)
+396	Starly	Normal
+Flying	120	101	58	50%	20%	Quick Attack
+Tackle
+Aerial Ace
+Brave Bird
+397	Staravia	Normal
+Flying	146	142	94	25%	9%	Wing Attack
+Quick Attack
+Heat Wave
+Aerial Ace
+Brave Bird
+398	Staraptor	Normal
+Flying	198	234	140	12.5%	6%	Wing Attack
+Quick Attack
+Heat Wave
+Close Combat
+Brave Bird
+399	Bidoof	Normal
+153	80	73	50%	20%	Tackle
+Take Down
+Hyper Fang
+Grass Knot
+Crunch
+400	Bibarel	Normal
+Water	188	162	119	20%	7%	Water Gun
+Take Down
+Hyper Beam
+Hyper Fang
+Surf
+401	Kricketot	Bug
+114	45	74	50%	20%	Bug Bite
+Struggle Bug
+Struggle
+402	Kricketune	Bug
+184	160	100	20%	7%	Fury Cutter
+Struggle Bug
+Aerial Ace
+Bug Buzz
+X-Scissor
+403	Shinx	Electric
+128	117	64	50%	10%	Spark
+Tackle
+Discharge
+Thunderbolt
+Swift
+404	Luxio	Electric
+155	159	95	25%	7%	Bite
+Spark
+Thunderbolt
+Wild Charge
+Crunch
+405	Luxray	Electric
+190	232	156	12.5%	5%	Spark
+Snarl
+Hidden Power
+Hyper Beam
+Wild Charge
+Crunch
+406	Budew	Grass
+Poison	120	91	109	10%	4%	Razor Leaf
+Hidden Power
+Grass Knot
+Energy Ball
+407	Roserade	Grass
+Poison	155	243	185	15%	7%	Razor Leaf
+Poison Jab
+Dazzling Gleam
+Sludge Bomb
+Solar Beam
+Grass Knot
+408	Cranidos	Rock
+167	218	71	50%	10%	Zen Headbutt
+Take Down
+Ancient Power
+Rock Tomb
+Bulldoze
+409	Rampardos	Rock
+219	295	109	20%	6%	Zen Headbutt
+Smack Down
+Flamethrower
+Rock Slide
+Outrage
+410	Shieldon	Rock
+Steel	102	76	195	50%	10%	Tackle
+Iron Tail
+Ancient Power
+Rock Tomb
+Heavy Slam
+411	Bastiodon	Rock
+Steel	155	94	286	20%	6%	Iron Tail
+Smack Down
+Flamethrower
+Stone Edge
+Flash Cannon
+412	BurmyPlant	Bug
+120	53	83	50%	20%	Bug Bite
+Tackle
+Struggle
+412	BurmySandy	Bug
+120	53	83	50%	0%	Bug Bite
+Tackle
+Struggle
+412	BurmyTrash	Bug
+120	53	83	50%	0%	Bug Bite
+Tackle
+Struggle
+413	WormadamPlant	Bug
+Grass	155	141	180	15%	7%	Bug Bite
+Confusion
+Psybeam
+Bug Buzz
+Energy Ball
+413	WormadamSandy	Bug
+Ground	155	141	180	15%	7%	Bug Bite
+Confusion
+Psybeam
+Bug Buzz
+Bulldoze
+413	WormadamTrash	Bug
+Steel	155	127	175	15%	7%	Bug Bite
+Confusion
+Psybeam
+Bug Buzz
+Iron Head
+414	Mothim	Bug
+Flying	172	185	98	15%	7%	Bug Bite
+Air Slash
+Psybeam
+Aerial Ace
+Bug Buzz
+415	Combee	Bug
+Flying	102	59	83	15%	7%	Bug Bite
+Bug Buzz
+416	Vespiquen	Bug
+Flying	172	149	190	15%	7%	Fury Cutter
+Bug Bite
+Poison Sting
+Air Slash
+Bug Buzz
+Power Gem
+Signal Beam
+X-Scissor
+Fell Stinger
+417	Pachirisu	Electric
+155	94	172	30%	9%	Spark
+Volt Switch
+Thunder Punch
+Thunder
+Thunderbolt
+418	Buizel	Water
+146	132	67	50%	10%	Quick Attack
+Water Gun
+Aqua Jet
+Water Pulse
+Swift
+419	Floatzel	Water
+198	221	114	20%	6%	Water Gun
+Waterfall
+Aqua Jet
+Hydro Pump
+Swift
+420	Cherubi	Grass
+128	108	92	50%	9%	Tackle
+Bullet Seed
+Petal Blizzard
+Seed Bomb
+Dazzling Gleam
+421	CherrimOvercast	Grass
+172	170	153	10%	7%	Razor Leaf
+Bullet Seed
+Hyper Beam
+Dazzling Gleam
+Solar Beam
+421	CherrimSunshine	Grass
+172	170	153	10%	0%	Razor Leaf
+Bullet Seed
+Hyper Beam
+Dazzling Gleam
+Solar Beam
+Weather Ball - Fire
+422	Shellos	Water
+183	103	105	50%	10%	Mud-Slap
+Hidden Power
+Mud Bomb
+Water Pulse
+Body Slam
+423	Gastrodon	Water
+Ground	244	169	143	20%	6%	Mud-Slap
+Hidden Power
+Water Pulse
+Body Slam
+Earth Power
+424	Ambipom	Normal
+181	205	143	20%	6%	Scratch
+Astonish
+Hyper Beam
+Aerial Ace
+Low Sweep
+425	Drifloon	Ghost
+Flying	207	117	80	40%	10%	Astonish
+Hex
+Ominous Wind
+Shadow Ball
+Icy Wind
+426	Drifblim	Ghost
+Flying	312	180	102	20%	7%	Astonish
+Hex
+Ominous Wind
+Shadow Ball
+Icy Wind
+427	Buneary	Normal
+146	130	105	50%	10%	Quick Attack
+Pound
+Fire Punch
+Swift
+428	Lopunny	Normal
+163	156	194	20%	6%	Low Kick
+Pound
+Hyper Beam
+Fire Punch
+Focus Blast
+429	Mismagius	Ghost
+155	211	187	10%	7%	Sucker Punch
+Hex
+Dark Pulse
+Shadow Ball
+Dazzling Gleam
+430	Honchkrow	Dark
+Flying	225	243	103	10%	7%	Peck
+Snarl
+Dark Pulse
+Psychic
+Brave Bird
+Sky Attack
+431	Glameow	Normal
+135	109	82	40%	10%	Quick Attack
+Scratch
+Aerial Ace
+Thunderbolt
+Play Rough
+432	Purugly	Normal
+174	172	133	15%	8%	Shadow Claw
+Scratch
+Aerial Ace
+Thunder
+Play Rough
+433	Chingling	Psychic
+128	114	94	10%	4%	Zen Headbutt
+Astonish
+Wrap
+Psyshock
+Shadow Ball
+434	Stunky	Poison
+Dark	160	121	90	50%	10%	Bite
+Scratch
+Flamethrower
+Sludge Bomb
+Crunch
+435	Skuntank	Poison
+Dark	230	184	132	20%	6%	Bite
+Poison Jab
+Flamethrower
+Sludge Bomb
+Crunch
+436	Bronzor	Steel
+Psychic	149	43	154	50%	10%	Tackle
+Confusion
+Psyshock
+Gyro Ball
+Heavy Slam
+437	Bronzong	Steel
+Psychic	167	161	213	20%	6%	Confusion
+Feint Attack
+Flash Cannon
+Psyshock
+Bulldoze
+Psychic
+Heavy Slam
+438	Bonsly	Rock
+137	124	133	10%	4%	Rock Throw
+Counter
+Earthquake
+Rock Tomb
+Rock Slide
+439	MimeJr.	Psychic
+Fairy	85	125	142	10%	4%	Pound
+Confusion
+Psybeam
+Psyshock
+Psychic
+440	Happiny	Normal
+225	25	77	10%	4%	Pound
+Zen Headbutt
+Psychic
+441	Chatot	Normal
+Flying	183	183	91	30%	9%	Peck
+Steel Wing
+Heat Wave
+Sky Attack
+Night Shade
+442	Spiritomb	Ghost
+Dark	137	169	199	10%	4%	Sucker Punch
+Feint Attack
+Shadow Sneak
+Ominous Wind
+Shadow Ball
+443	Gible	Dragon
+Ground	151	124	84	40%	9%	Mud Shot
+Take Down
+Dig
+Twister
+Body Slam
+444	Gabite	Dragon
+Ground	169	172	125	10%	6%	Mud Shot
+Take Down
+Flamethrower
+Dig
+Twister
+445	Garchomp	Dragon
+Ground	239	261	193	5%	5%	Mud Shot
+Dragon Tail
+Earthquake
+Fire Blast
+Sand Tomb
+Outrage
+446	Munchlax	Normal
+286	137	117	10%	4%	Lick
+Tackle
+Gunk Shot
+Bulldoze
+Body Slam
+447	Riolu	Fighting
+120	127	78	—	20%	Quick Attack
+Counter
+Cross Chop
+Low Sweep
+Brick Break
+448	Lucario	Fighting
+Steel	172	236	144	10%	5%	Bullet Punch
+Counter
+Flash Cannon
+Shadow Ball
+Close Combat
+Power-Up Punch
+Aura Sphere
+449	Hippopotas	Ground
+169	124	118	40%	10%	Bite
+Tackle
+Dig
+Rock Tomb
+Body Slam
+450	Hippowdon	Ground
+239	201	191	15%	8%	Bite
+Fire Fang
+Thunder Fang
+Ice Fang
+Earthquake
+Stone Edge
+Body Slam
+Earth Power
+451	Skorupi	Poison
+Bug	120	93	151	40%	10%	Poison Sting
+Infestation
+Aqua Tail
+Cross Poison
+Sludge Bomb
+452	Drapion	Poison
+Dark	172	180	202	15%	8%	Bite
+Poison Sting
+Infestation
+Ice Fang
+Aqua Tail
+Sludge Bomb
+Crunch
+Fell Stinger
+453	Croagunk	Poison
+Fighting	134	116	76	40%	12%	Poison Jab
+Poison Sting
+Low Sweep
+Sludge Bomb
+Brick Break
+454	Toxicroak	Poison
+Fighting	195	211	133	15%	7%	Poison Jab
+Counter
+Sludge Bomb
+Mud Bomb
+Dynamic Punch
+455	Carnivine	Grass
+179	187	136	90%	1%	Bite
+Vine Whip
+Power Whip
+Energy Ball
+Crunch
+456	Finneon	Water
+135	96	116	50%	10%	Pound
+Water Gun
+Ice Beam
+Water Pulse
+Silver Wind
+457	Lumineon	Water
+170	142	170	20%	6%	Water Gun
+Waterfall
+Blizzard
+Water Pulse
+Silver Wind
+458	Mantyke	Water
+Flying	128	105	179	10%	4%	Tackle
+Bubble
+Ice Beam
+Aerial Ace
+Water Pulse
+459	Snover	Grass
+Ice	155	115	105	30%	10%	Ice Shard
+Powder Snow
+Ice Beam
+Stomp
+Energy Ball
+Frustration (Shadow)
+Return (Shadow)
+460	Abomasnow	Grass
+Ice	207	178	158	12.5%	6%	Razor Leaf
+Powder Snow
+Blizzard
+Energy Ball
+Outrage
+Weather Ball - Ice
+Frustration (Shadow)
+Return (Shadow)
+460	MegaAbomasnow	Grass
+Ice	207	240	191	12.5%	6%	Razor Leaf
+Powder Snow
+Blizzard
+Energy Ball
+Outrage
+Weather Ball - Ice
+Frustration (Shadow)
+Return (Shadow)
+461	Weavile	Dark
+Ice	172	243	171	15%	9%	Ice Shard
+Feint Attack
+Snarl
+Focus Blast
+Avalanche
+Foul Play
+Frustration (Shadow)
+Return (Shadow)
+462	Magnezone	Electric
+Steel	172	238	205	12.5%	5%	Spark
+Charge Beam
+Flash Cannon
+Wild Charge
+Zap Cannon
+Mirror Shot
+Frustration (Shadow)
+Return (Shadow)
+463	Lickilicky	Normal
+242	161	181	15%	9%	Lick
+Zen Headbutt
+Hyper Beam
+Earthquake
+Shadow Ball
+Solar Beam
+Body Slam (legacy)
+464	Rhyperior	Ground
+Rock	251	241	190	5%	5%	Mud-Slap
+Smack Down
+Earthquake
+Stone Edge
+Surf
+Skull Bash
+Superpower
+Rock Wrecker (Community Day)
+465	Tangrowth	Grass
+225	207	184	15%	10%	Vine Whip
+Infestation
+Ancient Power
+Rock Slide
+Sludge Bomb
+Solar Beam
+Power Whip
+466	Electivire	Electric
+181	249	163	15%	10%	Thunder Shock
+Low Kick
+Ice Punch
+Thunder Punch
+Thunder
+Wild Charge
+Frustration (Shadow)
+Return (Shadow)
+467	Magmortar	Fire
+181	247	172	15%	10%	Karate Chop
+Fire Spin
+Fire Blast
+Psychic
+Fire Punch
+Brick Break
+Frustration (Shadow)
+Return (Shadow)
+468	Togekiss	Fairy
+Flying	198	225	217	1%	5%	Air Slash
+Hidden Power
+Charm
+Flamethrower
+Aerial Ace
+Ancient Power
+Dazzling Gleam
+469	Yanmega	Bug
+Flying	200	231	156	17.5%	5%	Bug Bite
+Wing Attack
+Aerial Ace
+Bug Buzz
+Ancient Power
+470	Leafeon	Grass
+163	216	219	12.5%	6%	Razor Leaf
+Quick Attack
+Solar Beam
+Leaf Blade
+Energy Ball
+Last Resort (Community Day)
+471	Glaceon	Ice
+163	238	205	12.5%	6%	Ice Shard
+Frost Breath
+Ice Beam
+Icy Wind
+Avalanche
+Last Resort (Community Day)
+472	Gliscor	Ground
+Flying	181	185	222	12.5%	9%	Fury Cutter
+Wing Attack
+Earthquake
+Aerial Ace
+Night Slash
+Sand Tomb
+473	Mamoswine	Ice
+Ground	242	247	146	5%	5%	Mud-Slap
+Powder Snow
+Stone Edge
+Ancient Power (Community Day)
+Bulldoze
+Avalanche
+474	Porygon-Z	Normal
+198	264	150	5%	5%	Charge Beam
+Hidden Power
+Lock-On
+Hyper Beam
+Blizzard
+Solar Beam
+Zap Cannon
+Frustration (Shadow)
+Return (Shadow)
+475	Gallade	Psychic
+Fighting	169	237	195	50%	5%	Low Kick
+Confusion
+Charm
+Psychic
+Leaf Blade
+Close Combat
+Frustration (Shadow)
+Return (Shadow)
+Synchronoise (Community Day)
+476	Probopass	Rock
+Steel	155	135	275	10%	7%	Spark
+Rock Throw
+Rock Slide
+Magnet Bomb
+Thunderbolt
+477	Dusknoir	Ghost
+128	180	254	10%	5%	Astonish
+Hex
+Dark Pulse
+Ominous Wind
+Psychic
+Frustration (Shadow)
+Return (Shadow)
+478	Froslass	Ice
+Ghost	172	171	150	20%	7%	Powder Snow
+Hex
+Shadow Ball
+Avalanche
+Crunch
+479	RotomWash	Electric
+Water	137	204	219	30%	10%	Thunder Shock
+Astonish
+Thunder
+Thunderbolt
+Hydro Pump
+480	Uxie	Psychic
+181	156	270	2%	0%	Confusion
+Extrasensory
+Thunder
+Swift
+Future Sight
+481	Mesprit	Psychic
+190	212	212	2%	0%	Confusion
+Extrasensory
+Blizzard
+Swift
+Future Sight
+482	Azelf	Psychic
+181	270	151	2%	0%	Confusion
+Extrasensory
+Fire Blast
+Swift
+Future Sight
+483	Dialga	Steel
+Dragon	205	275	211	2%	4%	Dragon Breath
+Metal Claw
+Iron Head
+Thunder
+Draco Meteor
+484	Palkia	Water
+Dragon	189	280	215	2%	4%	Dragon Breath
+Dragon Tail
+Aqua Tail
+Fire Blast
+Hydro Pump
+Draco Meteor
+485	Heatran	Fire
+Steel	209	251	213	2%	4%	Bug Bite
+Fire Spin
+Flamethrower
+Stone Edge
+Iron Head
+Fire Blast
+486	Regigigas	Normal
+221	287	210	6%	4%	Zen Headbutt
+Hidden Power
+Thunder
+Focus Blast
+Giga Impact
+487	GiratinaAltered	Ghost
+Dragon	284	187	225	2%	4%	Dragon Breath
+Shadow Claw
+Ancient Power
+Shadow Sneak
+Dragon Claw
+487	GiratinaOrigin	Ghost
+Dragon	284	225	187	2%	4%	Shadow Claw
+Dragon Tail
+Ominous Wind
+Shadow Ball
+Dragon Pulse
+488	Cresselia	Psychic
+260	152	258	2%	4%	Psycho Cut
+Confusion
+Moonblast
+Aurora Beam
+Future Sight
+491	Darkrai	Dark
+172	285	198	2%	0%	Feint Attack
+Snarl
+Dark Pulse
+Shadow Ball
+Focus Blast
+494	Victini	Psychic
+Fire	225	210	210	100%	0%	Quick Attack
+Confusion
+Psychic
+Focus Blast
+Overheat
+V-create
+495	Snivy	Grass
+128	88	107	20%	10%	Vine Whip
+Tackle
+Wrap
+Seed Bomb
+Energy Ball
+496	Servine	Grass
+155	122	152	10%	10%	Vine Whip
+Iron Tail
+Wrap
+Grass Knot
+Leaf Tornado
+497	Serperior	Grass
+181	161	204	5%	5%	Vine Whip
+Iron Tail
+Aerial Ace
+Grass Knot
+Leaf Tornado
+498	Tepig	Fire
+163	115	85	20%	10%	Ember
+Tackle
+Flamethrower
+Flame Charge
+Body Slam
+499	Pignite	Fire
+Fighting	207	173	106	10%	7%	Ember
+Tackle
+Flamethrower
+Rock Tomb
+Flame Charge
+500	Emboar	Fire
+Fighting	242	235	127	5%	5%	Low Kick
+Ember
+Heat Wave
+Rock Slide
+Flame Charge
+Focus Blast
+501	Oshawott	Water
+146	117	85	20%	10%	Tackle
+Water Gun
+Night Slash
+Aqua Tail
+Water Pulse
+502	Dewott	Water
+181	159	116	10%	7%	Fury Cutter
+Water Gun
+Aqua Tail
+X-Scissor
+Water Pulse
+503	Samurott	Water
+216	212	157	5%	5%	Fury Cutter
+Waterfall
+Megahorn
+Blizzard
+Hydro Pump
+504	Patrat	Normal
+128	98	73	50%	20%	Bite
+Tackle
+Dig
+Hyper Fang
+Grass Knot
+505	Watchog	Normal
+155	165	139	20%	7%	Bite
+Low Kick
+Hyper Fang
+Grass Knot
+Crunch
+506	Lillipup	Normal
+128	107	86	50%	20%	Tackle
+Take Down
+Dig
+Rock Tomb
+Thunderbolt
+507	Herdier	Normal
+163	145	126	25%	9%	Lick
+Take Down
+Dig
+Thunderbolt
+Play Rough
+508	Stoutland	Normal
+198	206	182	12.5%	5%	Lick
+Take Down
+Ice Fang
+Play Rough
+Wild Charge
+Crunch
+509	Purrloin	Dark
+121	98	73	50%	20%	Sucker Punch
+Scratch
+Dark Pulse
+Night Slash
+Play Rough
+510	Liepard	Dark
+162	187	106	20%	7%	Snarl
+Charm
+Dark Pulse
+Play Rough
+Gunk Shot
+511	Pansage	Grass
+137	104	94	50%	20%	Vine Whip
+Scratch
+Seed Bomb
+Energy Ball
+Crunch
+512	Simisage	Grass
+181	206	133	50%	20%	Bite
+Vine Whip
+Solar Beam
+Grass Knot
+Crunch
+513	Pansear	Fire
+137	104	94	20%	7%	Scratch
+Fire Spin
+Flame Charge
+Flame Burst
+Crunch
+514	Simisear	Fire
+181	206	133	50%	20%	Bite
+Fire Spin
+Flamethrower
+Fire Blast
+Crunch
+515	Panpour	Water
+137	104	94	50%	20%	Scratch
+Water Gun
+Water Pulse
+Crunch
+Surf
+516	Simipour	Water
+181	206	133	20%	7%	Bite
+Water Gun
+Hydro Pump
+Crunch
+Surf
+519	Pidove	Normal
+Flying	137	98	80	50%	20%	Quick Attack
+Air Slash
+Heat Wave
+Aerial Ace
+Air Cutter
+520	Tranquill	Normal
+Flying	158	144	107	25%	9%	Steel Wing
+Air Slash
+Heat Wave
+Aerial Ace
+Sky Attack
+521	Unfezant	Normal
+Flying	190	226	146	12.5%	5%	Steel Wing
+Air Slash
+Hyper Beam
+Heat Wave
+Sky Attack
+522	Blitzle	Electric
+128	118	64	30%	10%	Spark
+Quick Attack
+Discharge
+Thunderbolt
+Flame Charge
+523	Zebstrika	Electric
+181	211	136	10%	7%	Spark
+Low Kick
+Discharge
+Flame Charge
+Wild Charge
+524	Roggenrola	Rock
+146	121	110	50%	15%	Tackle
+Smack Down
+Stone Edge
+Bulldoze
+Rock Blast
+525	Boldore	Rock
+172	174	143	25%	7%	Mud-Slap
+Smack Down
+Stone Edge
+Rock Slide
+Bulldoze
+526	Gigalith	Rock
+198	226	201	12.5%	5%	Mud-Slap
+Smack Down
+Rock Slide
+Solar Beam
+Heavy Slam
+Superpower
+527	Woobat	Psychic
+Flying	163	107	85	50%	20%	Confusion
+Air Slash
+Aerial Ace
+Psyshock
+Air Cutter
+528	Swoobat	Psychic
+Flying	167	161	119	20%	7%	Confusion
+Air Slash
+Aerial Ace
+Psychic
+Future Sight
+529	Drilbur	Ground
+155	154	85	50%	20%	Scratch
+Mud-Slap
+Dig
+Drill Run
+Rock Tomb
+530	Excadrill	Ground
+Steel	242	255	129	20%	7%	Mud Shot
+Metal Claw
+Mud-Slap
+Earthquake
+Drill Run
+Rock Slide
+Iron Head
+531	Audino	Normal
+230	114	163	5%	5%	Pound
+Zen Headbutt
+Hyper Beam
+Disarming Voice
+Dazzling Gleam
+532	Timburr	Fighting
+181	134	87	50%	15%	Low Kick
+Pound
+Low Sweep
+Rock Tomb
+Brick Break
+533	Gurdurr	Fighting
+198	180	134	25%	7%	Low Kick
+Poison Jab
+Stone Edge
+Low Sweep
+Brick Break
+534	Conkeldurr	Fighting
+233	243	158	12.5%	5%	Poison Jab
+Counter
+Stone Edge
+Dynamic Punch
+Focus Blast
+535	Tympole	Water
+137	98	78	50%	15%	Mud Shot
+Bubble
+Sludge Wave
+Mud Bomb
+Water Pulse
+536	Palpitoad	Water
+Ground	181	128	109	25%	7%	Mud Shot
+Bubble
+Sludge Wave
+Water Pulse
+Earth Power
+537	Seismitoad	Water
+Ground	233	188	150	12.5%	5%	Mud Shot
+Bubble
+Sludge Bomb
+Earth Power
+Muddy Water
+538	Throh	Fighting
+260	172	160	20%	7%	Low Kick
+Zen Headbutt
+Low Sweep
+Body Slam
+Focus Blast
+539	Sawk	Fighting
+181	231	153	20%	7%	Low Kick
+Poison Jab
+Low Sweep
+Body Slam
+Focus Blast
+540	Sewaddle	Bug
+Grass	128	96	124	50%	15%	Bug Bite
+Struggle Bug
+Seed Bomb
+Silver Wind
+Energy Ball
+541	Swadloon	Bug
+Grass	146	115	162	25%	7%	Bug Bite
+Struggle Bug
+Bug Buzz
+Silver Wind
+Energy Ball
+542	Leavanny	Bug
+Grass	181	205	165	12.5%	5%	Bug Bite
+Razor Leaf
+X-Scissor
+Leaf Blade
+Silver Wind
+543	Venipede	Bug
+Poison	102	83	99	30%	10%	Bug Bite
+Poison Sting
+Sludge Bomb
+Signal Beam
+Gyro Ball
+544	Whirlipede	Bug
+Poison	120	100	173	15%	5%	Bug Bite
+Poison Sting
+Sludge Bomb
+Signal Beam
+Gyro Ball
+545	Scolipede	Bug
+Poison	155	203	175	20%	7%	Bug Bite
+Poison Jab
+Megahorn
+Sludge Bomb
+X-Scissor
+Gyro Ball
+546	Cottonee	Grass
+Fairy	120	71	111	30%	10%	Razor Leaf
+Charm
+Seed Bomb
+Grass Knot
+Energy Ball
+547	Whimsicott	Grass
+Fairy	155	164	176	15%	5%	Razor Leaf
+Charm
+Moonblast
+Hurricane
+Grass Knot
+548	Petilil	Grass
+128	119	91	30%	10%	Hidden Power
+Charm
+Seed Bomb
+Energy Ball
+549	Lilligant	Grass
+172	214	155	15%	5%	Hidden Power
+Charm
+Hyper Beam
+Petal Blizzard
+Solar Beam
+550	Basculin	Water
+172	189	129	20%	7%	Tackle
+Water Gun
+Aqua Jet
+Aqua Tail
+Muddy Water
+551	Sandile	Ground
+Dark	137	132	69	50%	15%	Bite
+Mud-Slap
+Dig
+Bulldoze
+Crunch
+552	Krokorok	Ground
+Dark	155	155	90	25%	7%	Bite
+Mud-Slap
+Earthquake
+Bulldoze
+Crunch
+553	Krookodile	Ground
+Dark	216	229	158	12.5%	5%	Mud-Slap
+Snarl
+Earthquake
+Outrage
+Crunch
+554	Darumaka	Fire
+172	153	86	30%	9%	Tackle
+Fire Fang
+Flame Charge
+Fire Punch
+554	GalarianDarumaka	Ice
+172	153	86	30%	9%	Tackle
+Ice Fang
+Ice Punch
+Ice Beam
+555	Darmanitan	Fire
+233	263	114	10%	7%	Tackle
+Fire Fang
+Incinerate
+Rock Slide
+Psychic
+Focus Blast
+Overheat
+555	GalarianDarmanitan	Ice
+233	263	114	10%	7%	Tackle
+Ice Fang
+Ice Punch
+Avalanche
+Overheat
+Superpower
+556	Maractus	Grass
+181	201	130	20%	7%	Poison Jab
+Bullet Seed
+Aerial Ace
+Petal Blizzard
+Solar Beam
+557	Dwebble	Bug
+Rock	137	118	128	30%	10%	Cut
+Smack Down
+Rock Tomb
+X-Scissor
+Rock Blast
+558	Crustle	Bug
+Rock	172	188	200	10%	7%	Fury Cutter
+Smack Down
+Rock Slide
+X-Scissor
+Rock Blast
+559	Scraggy	Dark
+Fighting	137	132	132	30%	9%	Feint Attack
+Rock Smash
+Brick Break
+Foul Play
+Acid Spray
+560	Scrafty	Dark
+Fighting	163	163	222	10%	7%	Counter
+Snarl
+Foul Play
+Acid Spray
+Power-Up Punch
+561	Sigilyph	Psychic
+Flying	176	204	167	20%	7%	Zen Headbutt
+Air Slash
+Psybeam
+Ancient Power
+Signal Beam
+Air Cutter
+562	Yamask	Ghost
+116	95	141	30%	10%	Zen Headbutt
+Astonish
+Dark Pulse
+Ominous Wind
+Shadow Ball
+562	GalarianYamask	Ground
+Ghost	116	95	141	30%	10%	Astonish
+Rock Tomb
+Night Shade
+563	Cofagrigus	Ghost
+151	163	237	10%	7%	Zen Headbutt
+Astonish
+Dark Pulse
+Shadow Ball
+Psychic
+564	Tirtouga	Water
+Rock	144	134	146	30%	10%	Bite
+Water Gun
+Ancient Power
+Body Slam
+Surf
+565	Carracosta	Water
+Rock	179	192	197	10%	7%	Rock Throw
+Water Gun
+Ancient Power
+Body Slam
+Surf
+566	Archen	Rock
+Flying	146	213	89	30%	9%	Wing Attack
+Quick Attack
+Ancient Power
+Dragon Claw
+Crunch
+567	Archeops	Rock
+Flying	181	292	139	10%	7%	Wing Attack
+Steel Wing
+Ancient Power
+Dragon Claw
+Crunch
+568	Trubbish	Poison
+137	96	122	30%	9%	Pound
+Take Down
+Seed Bomb
+Gunk Shot
+569	Garbodor	Poison
+190	181	164	10%	7%	Infestation
+Take Down
+Seed Bomb
+Gunk Shot
+Body Slam
+Acid Spray
+572	Minccino	Normal
+146	98	80	30%	10%	Pound
+Charm
+Aqua Tail
+Thunderbolt
+Swift
+573	Cinccino	Normal
+181	198	130	10%	7%	Pound
+Charm
+Hyper Beam
+Aqua Tail
+Thunderbolt
+574	Gothita	Psychic
+128	98	112	50%	15%	Pound
+Confusion
+Psybeam
+Psyshock
+Psychic
+575	Gothorita	Psychic
+155	137	153	25%	7%	Pound
+Confusion
+Psybeam
+Psychic
+Future Sight
+576	Gothitelle	Psychic
+172	176	205	12.5%	5%	Confusion
+Charm
+Rock Slide
+Psychic
+Future Sight
+577	Solosis	Psychic
+128	170	83	50%	15%	Zen Headbutt
+Hidden Power
+Psyshock
+Thunder
+Night Shade
+578	Duosion	Psychic
+163	208	103	25%	7%	Zen Headbutt
+Hidden Power
+Psyshock
+Thunder
+Night Shade
+579	Reuniclus	Psychic
+242	214	148	12.5%	5%	Zen Headbutt
+Hidden Power
+Shadow Ball
+Thunder
+Future Sight
+580	Ducklett	Water
+Flying	158	84	96	50%	15%	Wing Attack
+Water Gun
+Aerial Ace
+Bubble Beam
+Brave Bird
+581	Swanna	Water
+Flying	181	182	132	40%	12%	Water Gun
+Air Slash
+Ice Beam
+Bubble Beam
+Hurricane
+582	Vanillite	Ice
+113	118	106	10%	7%	Powder Snow
+Astonish
+Ice Beam
+Signal Beam
+Icy Wind
+583	Vanillish	Ice
+139	151	138	5%	5%	Frost Breath
+Astonish
+Ice Beam
+Signal Beam
+Icy Wind
+584	Vanilluxe	Ice
+174	218	184	12.5%	5%	Frost Breath
+Astonish
+Flash Cannon
+Blizzard
+Signal Beam
+585	Deerling	Normal
+Grass	155	115	100	30%	0%	Tackle
+Take Down
+Seed Bomb
+Wild Charge
+Energy Ball
+586	Sawsbuck	Normal
+Grass	190	198	146	15%	0%	Feint Attack
+Take Down
+Hyper Beam
+Megahorn
+Solar Beam
+Wild Charge
+587	Emolga	Electric
+Flying	146	158	127	20%	7%	Thunder Shock
+Quick Attack
+Discharge
+Aerial Ace
+Thunderbolt
+588	Karrablast	Bug
+137	137	87	30%	10%	Fury Cutter
+Peck
+Aerial Ace
+Drill Run
+Signal Beam
+X-Scissor
+589	Escavalier	Bug
+Steel	172	223	187	12.5%	5%	Bug Bite
+Counter
+Megahorn
+Aerial Ace
+Drill Run
+Acid Spray
+590	Foongus	Grass
+Poison	170	97	91	30%	10%	Feint Attack
+Astonish
+Body Slam
+Grass Knot
+Energy Ball
+591	Amoonguss	Grass
+Poison	249	155	139	12.5%	5%	Feint Attack
+Astonish
+Sludge Bomb
+Grass Knot
+Foul Play
+592	Frillish	Water
+Ghost	146	115	134	30%	9%	Bubble
+Hex
+Ice Beam
+Ominous Wind
+Night Shade
+593	Jellicent	Water
+Ghost	225	159	178	12.5%	5%	Bubble
+Hex
+Ice Beam
+Bubble Beam
+Shadow Ball
+594	Alomomola	Water
+338	138	131	20%	7%	Hidden Power
+Waterfall
+Blizzard
+Hydro Pump
+Psychic
+595	Joltik	Bug
+Electric	137	110	98	30%	10%	Sucker Punch
+Charge Beam
+Discharge
+Bug Buzz
+Cross Poison
+596	Galvantula	Bug
+Electric	172	201	128	12.5%	5%	Fury Cutter
+Volt Switch
+Discharge
+Bug Buzz
+Cross Poison
+Energy Ball
+Lunge
+597	Ferroseed	Grass
+Steel	127	82	155	30%	9%	Tackle
+Metal Claw
+Flash Cannon
+Iron Head
+Gyro Ball
+598	Ferrothorn	Grass
+Steel	179	158	223	12.5%	5%	Metal Claw
+Bullet Seed
+Flash Cannon
+Thunder
+Power Whip
+Acid Spray
+Mirror Shot
+599	Klink	Steel
+120	98	121	40%	10%	Charge Beam
+Volt Switch
+Vise Grip
+Discharge
+Zap Cannon
+600	Klang	Steel
+155	150	174	10%	7%	Thunder Shock
+Charge Beam
+Vise Grip
+Thunderbolt
+Zap Cannon
+601	Klinklang	Steel
+155	199	214	5%	5%	Thunder Shock
+Charge Beam
+Hyper Beam
+Flash Cannon
+Zap Cannon
+Mirror Shot
+602	Tynamo Electric
+111	105	78	40%	15%	Spark
+Tackle
+Struggle
+603	Eelektrik Electric 
+163	156	130	10%	7%	Spark
+Acid
+Discharge
+Thunderbolt
+Crunch
+604	Eelektross	Electric
+198	217	152	5%	5%	Spark
+Acid
+Thunderbolt
+Dragon Claw
+Crunch
+Acid Spray
+605	Elgyem	Psychic
+146	148	100	30%	10%	Confusion
+Astonish
+Dark Pulse
+Psybeam
+Psychic
+606	Beheeyem	Psychic
+181	221	163	15%	5%	Confusion
+Astonish
+Dark Pulse
+Rock Slide
+Psychic
+607	Litwick	Ghost
+Fire	137	108	98	40%	9%	Ember
+Astonish
+Heat Wave
+Flame Charge
+Flame Burst
+608	Lampent	Ghost
+Fire	155	169	115	10%	7%	Ember
+Astonish
+Heat Wave
+Flame Burst
+Energy Ball
+609	Chandelure	Ghost
+Fire	155	271	182	5%	5%	Hex
+Fire Spin
+Incinerate
+Shadow Ball
+Flame Charge
+Overheat
+Energy Ball
+610	Axew	Dragon
+130	154	101	40%	9%	Scratch
+Iron Tail
+Aqua Tail
+Dragon Pulse
+Dragon Claw
+611	Fraxure	Dragon
+165	212	123	10%	7%	Dragon Tail
+Iron Tail
+Night Slash
+Aqua Tail
+Dragon Claw
+612	Haxorus	Dragon
+183	284	172	5%	5%	Counter
+Dragon Tail
+Earthquake
+Night Slash
+Dragon Claw
+Surf
+613	Cubchoo	Ice
+146	128	74	30%	10%	Powder Snow
+Charm
+Ice Punch
+Play Rough
+Icy Wind
+614	Beartic	Ice
+216	233	152	15%	5%	Powder Snow
+Charm
+Ice Punch
+Play Rough
+Surf
+615	Cryogonal	Ice
+190	190	218	20%	7%	Ice Shard
+Frost Breath
+Night Slash
+Water Pulse
+Solar Beam
+Aurora Beam
+616	Shelmet	Bug
+137	72	140	30%	10%	Acid
+Infestation
+Bug Buzz
+Signal Beam
+Body Slam
+617	Accelgor	Bug
+190	220	120	15%	5%	Acid
+Infestation
+Bug Buzz
+Signal Beam
+Focus Blast
+Acid Spray
+618	Stunfisk	Ground
+Electric	240	144	171	20%	7%	Thunder Shock
+Mud Shot
+Discharge
+Mud Bomb
+Muddy Water
+618	GalarianStunfisk	Ground
+Steel	240	144	171	20%	7%	Mud Shot
+Metal Claw
+Earthquake
+Flash Cannon
+Rock Slide
+Muddy Water
+622	Golett	Ground
+Ghost	153	127	92	30%	10%	Mud-Slap
+Astonish
+Shadow Punch
+Brick Break
+Night Shade
+623	Golurk	Ground
+Ghost	205	222	154	15%	5%	Mud-Slap
+Astonish
+Shadow Punch
+Dynamic Punch
+Earth Power
+624	Pawniard	Dark
+Steel	128	154	114	30%	9%	Fury Cutter
+Scratch
+Night Slash
+Iron Head
+X-Scissor
+625	Bisharp	Dark
+Steel	163	232	176	15%	5%	Metal Claw
+Snarl
+Dark Pulse
+Iron Head
+X-Scissor
+Focus Blast
+626	Bouffalant	Normal
+216	195	182	20%	7%	Mud Shot
+Zen Headbutt
+Megahorn
+Earthquake
+Stomp
+Skull Bash
+627	Rufflet	Normal
+Flying	172	150	97	30%	10%	Wing Attack
+Peck
+Aerial Ace
+Rock Tomb
+Brave Bird
+628	Braviary	Normal
+Flying	225	232	152	15%	5%	Steel Wing
+Air Slash
+Heat Wave
+Rock Slide
+Close Combat
+Brave Bird
+629	Vullaby	Dark
+Flying	172	105	139	30%	10%	Feint Attack
+Air Slash
+Dark Pulse
+Brave Bird
+Foul Play
+630	Mandibuzz	Dark
+Flying	242	129	205	15%	5%	Air Slash
+Snarl
+Dark Pulse
+Aerial Ace
+Shadow Ball
+Foul Play
+631	Heatmor	Fire
+198	204	129	20%	7%	Lick
+Fire Spin
+Flamethrower
+Thunder Punch
+Power-Up Punch
+632	Durant	Bug
+Steel	151	217	188	20%	7%	Bug Bite
+Metal Claw
+Stone Edge
+Iron Head
+X-Scissor
+633	Deino	Dark
+Dragon	141	116	93	40%	9%	Dragon Breath
+Tackle
+Dragon Pulse
+Body Slam
+Crunch
+634	Zweilous	Dark
+Dragon	176	159	135	10%	7%	Bite
+Dragon Breath
+Dark Pulse
+Dragon Pulse
+Body Slam
+635	Hydreigon	Dark
+Dragon	211	256	188	5%	5%	Bite
+Dragon Breath
+Dark Pulse
+Flash Cannon
+Dragon Pulse
+638	Cobalion	Steel
+Fighting	209	192	229	2%	1%	Metal Claw
+Zen Headbutt
+Stone Edge
+Iron Head
+Close Combat
+639	Terrakion	Rock
+Fighting	209	260	192	2%	1%	Zen Headbutt
+Smack Down
+Earthquake
+Rock Slide
+Close Combat
+640	Virizion	Grass
+Fighting	209	192	229	2%	1%	Quick Attack
+Zen Headbutt
+Stone Edge
+Leaf Blade
+Close Combat
+641	TornadusIncarnate	Flying
+188	266	164	2%	1%	Bite
+Air Slash
+Hyper Beam
+Dark Pulse
+Hurricane
+Grass Knot
+641	TornadusTherian	Flying
+188	238	189	2%	1%	Bite
+Air Slash
+Hyper Beam
+Dark Pulse
+Hurricane
+Grass Knot
+642	ThundurusIncarnate	Electric
+Flying	188	266	164	2%	1%	Thunder Shock
+Astonish
+Thunder Punch
+Thunder
+Brick Break
+Crunch
+642	ThundurusTherian	Electric
+Flying	188	295	161	2%	1%	Bite 
+Volt Switch
+Sludge Wave
+Bite
+Thunderbolt
+Focus Blast
+643	Reshiram	Dragon
+Fire	205	275	211	2%	1%	Dragon Breath
+Fire Fang
+Stone Edge
+Overheat
+Crunch
+Draco Meteor
+644	Zekrom	Dragon
+Electric	205	275	211	2%	1%	Dragon Breath
+Charge Beam
+Flash Cannon
+Wild Charge
+Outrage
+Crunch
+645	LandorusIncarnate	Ground
+Flying	205	261	182	2%	1%	Mud Shot
+Rock Throw
+Rock Slide
+Focus Blast
+Outrage
+Earth Power
+645	LandorusTherian	Ground
+Flying	205	289	179	2%	1%	Mud Shot
+Rock Throw
+Rock Slide
+Focus Blast
+Outrage
+Earth Power
+646	Kyurem	Dragon
+Ice	245	246	170	2%	1%	Dragon Breath
+Steel Wing
+Blizzard
+Dragon Claw
+Draco Meteor
+649	Genesect	Bug
+Steel	174	252	199	2%	1%	Fury Cutter
+Metal Claw
+Hyper Beam
+Magnet Bomb
+X-Scissor
+650	Chespin	Grass
+148	110	106	20%	10%	Vine Whip
+Take Down
+Seed Bomb
+Body Slam
+Gyro Ball
+651	Quilladin	Grass
+156	146	156	10%	10%	Low Kick
+Vine Whip
+Body Slam
+Gyro Ball
+Energy Ball
+652	Chesnaught	Grass
+Fighting	204	201	204	5%	10%	Low Kick
+Vine Whip
+Smack Down
+Solar Beam
+Gyro Ball
+Energy Ball
+Superpower
+653	Fennekin	Fire
+120	116	102	20%	10%	Ember
+Scratch
+Flamethrower
+Psyshock
+Flame Charge
+654	Braixen	Fire
+153	171	130	10%	10%	Ember
+Scratch
+Flamethrower
+Psyshock
+Flame Charge
+655	Delphox	Fire
+Psychic	181	230	189	5%	10%	Scratch
+Zen Headbutt
+Fire Spin
+Flamethrower
+Flame Charge
+Fire Blast
+Psychic
+656	Froakie	Water
+121	122	84	20%	10%	Pound
+Bubble
+Aerial Ace
+Water Pulse
+Surf
+657	Frogadier	Water
+144	168	114	10%	10%	Pound
+Bubble
+Aerial Ace
+Water Pulse
+Surf
+658	Greninja	Water
+Dark	176	223	152	5%	10%	Bubble
+Feint Attack
+Aerial Ace
+Night Slash
+Hydro Pump
+Surf
+659	Bunnelby	Normal
+116	68	72	20%	10%	Quick Attack
+Mud-Slap
+Dig
+Earthquake
+Bulldoze
+660	Diggersby	Normal
+Ground	198	112	155	20%	10%	Mud Shot
+Quick Attack
+Hyper Beam
+Dig
+Earthquake
+Fire Punch
+661	Fletchling	Normal
+Flying	128	95	80	20%	10%	Peck
+Quick Attack
+Heat Wave
+Aerial Ace
+Swift
+662	Fletchinder	Fire
+Flying	158	145	110	10%	10%	Ember
+Peck
+Steel Wing
+Heat Wave
+Aerial Ace
+Flame Charge
+663	Talonflame	Fire
+Flying	186	176	155	5%	10%	Peck
+Steel Wing
+Fire Spin
+Flame Charge
+Fire Blast
+Hurricane
+Brave Bird
+667	Litleo	Fire
+Normal	158	139	112	30%	10%	Ember
+Tackle
+Fire Fang
+Flamethrower
+Flame Charge
+Crunch
+668	Pyroar Fire
+Normal	200	221	149	10%	7%	Ember
+Fire Fang
+Take Down
+Dark Pulse
+Flame Charge
+Solar Beam
+Overheat
+677	Espurr	Psychic
+158	120	114	40%	10%	Scratch
+Confusion
+Psyshock
+Psychic
+Energy Ball
+678	Meowstic Psychic
+179	166	167	20%	7%	Sucker Punch
+Confusion
+Thunderbolt
+Psychic
+Energy Ball
+707	Klefki	Steel
+Fairy	149	160	179	20%	10%	Tackle
+Astonish
+Flash Cannon
+Draining Kiss
+Play Rough
+Foul Play
+714	Noibat	Flying
+Dragon	120	83	73	30%	10%	Bite
+Wing Attack
+Heat Wave
+Dragon Pulse
+Air Cutter
+715	Noivern	Flying
+Dragon	198	205	175	15%	5%	Bite
+Air Slash
+Heat Wave
+Psychic
+Hurricane
+Draco Meteor
+808	Meltan	Steel
+130	118	99	30%	0%	Thunder Shock
+Flash Cannon
+Thunderbolt
+809	Melmetal	Steel
+264	226	190	30%	0%	Thunder Shock
+Hyper Beam
+Flash Cannon
+Rock Slide
+Thunderbolt
+Superpower
+862	Obstagoon	Dark
+Normal	212	180	194	4%	4%	Lick
+Counter
+Hyper Beam
+Cross Chop
+Night Slash
+Gunk Shot
+863	Perrserker	Steel
+172	195	162	10%	7%	Shadow Claw
+Metal Claw
+Iron Head
+Play Rough
+Close Combat
+Foul Play
+865	Sirfetch'd	Fighting
+158	248	176	10%	7%	Fury Cutter
+Counter
+Night Slash
+Leaf Blade
+Close Combat
+Brave Bird
+866	Mr.Rime	Ice
+Psychic	190	212	179	30%	9%	Ice Shard
+Zen Headbutt
+Confusion
+Psybeam
+Ice Punch
+Psychic
+Icy Wind
+867	Runerigus	Ground
+Ghost	151	163	237	10%	7%	Astonish
+Rock Tomb
+Shadow Ball
+Sand Tomb
