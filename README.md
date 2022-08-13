@@ -1,6 +1,6 @@
 # Pokemon Go Information Center
 
-This is my first programming project. I wrote it in January 2021, as a fun project to apply what I had learnt in an undergraduate programming course to obtain some useful gameplay information in Pokemon Go.
+This is my first programming project. I wrote it in January 2021, as a fun project to apply what I had learnt in a pre-university programming course to obtain some useful gameplay information in Pokemon Go.
 
 ## Table of contents
 * [General info](#general-info)
